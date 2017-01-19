@@ -24,9 +24,9 @@ CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
-TEST= (./story > the_story.txt) ; cat the_story.txt
+TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_story.txt
 
-# -----------------------------------------------DERS.h
+# -----------------------------------------------
 # The standard default target is 'all'
 # This target has no command, only a dependency.
 # We will execute test   though, when it's built.
@@ -34,7 +34,7 @@ TEST= (./story > the_story.txt) ; cat the_story.txt
 
 all: story
 
-test:
+test: story
 	@$(TEST)
 
 # -----------------------------------------------
@@ -47,24 +47,22 @@ clean:
 
 cleanwin:
 	$(CLEANWIN)
+
 # -----------------------------------------------
 # Now we bring in our dependencies.
-# 'all' needs 'story.o'. What does story need?
+# 'all' needs 'story'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o 
+story: story.o bpbkt7.o snhqm9.o
 	$(CC) -o story $^
-	
 
 # -----------------------------------------------
 
 story.o: story.c
-	$(CC) -c $^
+	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
-#pawprint.o -  where is your .c derived object file - where is your file
-bpbkt7.o: sentences/bpbkt7.c
-	$(CC) -c $<
-
-
+#pawprint.o -  where is your .c derived object file? - where is your file?
+%.o : sentences/%.c
+	$(CC) -c -o $@ $<

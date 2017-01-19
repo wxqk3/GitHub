@@ -12,10 +12,13 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
-	    
-	    
-	    
+	snhqm9_sentence1();
+
+
+	printf("\n\n");
+	snhqm9_sentence2();
+
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
