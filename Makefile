@@ -26,7 +26,7 @@ CLEANWIN = del /f /s *.o *.exe story
 # TEST definition - write to file and cat file
 TEST= (./story > the_story.txt) ; cat the_story.txt
 
-# -----------------------------------------------DERS.h
+# -----------------------------------------------
 # The standard default target is 'all'
 # This target has no command, only a dependency.
 # We will execute test   though, when it's built.
@@ -47,20 +47,20 @@ clean:
 
 cleanwin:
 	$(CLEANWIN)
+
 # -----------------------------------------------
 # Now we bring in our dependencies.
-# 'all' needs 'story.o'. What does story need?
+# 'all' needs 'story'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
 
 story: story.o bpbkt7.o 
 	$(CC) -o story $^
-	
 
 # -----------------------------------------------
 
 story.o: story.c
-	$(CC) -c $^
+	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
