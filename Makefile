@@ -24,7 +24,7 @@ CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
-TEST= (./story > the_story.txt) ; cat the_story.txt
+TEST= (./story | fold -s > the_story.txt) ; cat the_story.txt
 
 # -----------------------------------------------
 # The standard default target is 'all'
