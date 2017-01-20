@@ -25,7 +25,6 @@ CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
 TEST= (./story > the_story.txt) ; cat the_story.txt
-
 # -----------------------------------------------DERS.h
 # The standard default target is 'all'
 # This target has no command, only a dependency.
@@ -53,7 +52,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o 
+story: story.o bpbkt7.o msdrm8.o
 	$(CC) -o story $^
 	
 
@@ -65,6 +64,9 @@ story.o: story.c
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
 bpbkt7.o: sentences/bpbkt7.c
+	$(CC) -c $<
+
+msdrm8.o: sentences/msdrm8.c
 	$(CC) -c $<
 
 

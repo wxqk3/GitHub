@@ -8,14 +8,15 @@ int main( void )
 	printf("\n\n");
 	bensSentence1();
 	printf("\n\n");
+	
 
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	mattDSent1();    
 	    
 	    
-	    
-	    
+	mattDSent2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
