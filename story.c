@@ -15,12 +15,12 @@ int main( void )
 	snhqm9_sentence1();
 	shensSentence1();
 	pje279Sentence1();
-	nicolasSmithsentence1();
+	nicolasSmithsSentence1();
 
 	printf("\n\n");
 	snhqm9_sentence2();
 	pje279Sentence2();
-	nicolasSmithsentence2();
+	nicolasSmithsSentence2();
 	shensSentence_FINAL();
 
 	// DO NOT ADD AFTER THIS COMMENT
