@@ -10,6 +10,6 @@ int yzghf()
 
 int yzghf2()
 {
-  printf("\nCongratulations!\n");
+  printf("How amazing!\n");
   return 1;
 }
