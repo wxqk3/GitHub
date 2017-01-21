@@ -54,11 +54,10 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o yzghf.o
-=======
+
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o szz63.o
->>>>>>> master
+
 	$(CC) -o story $^
 
 # -----------------------------------------------

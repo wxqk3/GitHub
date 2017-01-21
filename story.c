@@ -20,13 +20,13 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
-<<<<<<< HEAD
+
     yzghf();
-=======
+
 	szz63one();
 
 
->>>>>>> master
+
 	printf("\n\n");
 	snhqm9_sentence2();
 	rml3mdSecondSentence();
@@ -35,11 +35,11 @@ int main( void )
 	mdsf3fSentence2();
 	shensSentence_FINAL();
 	acmyfSecond();
-<<<<<<< HEAD
+
     yzghf2();
-=======
+
 	szz63two();
->>>>>>> master
+
 
 
 	// DO NOT ADD AFTER THIS COMMENT
