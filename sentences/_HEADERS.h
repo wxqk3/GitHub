@@ -19,3 +19,7 @@ int acmyfFirst();
 int acmyfSecond();
 int mdsf3fSentence1();
 int mdsf3fSentence2();
+int rml3mdFirstSentence();
+int rml3mdSecondSentence();
+int szz63one();
+int szz63two();
