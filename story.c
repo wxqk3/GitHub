@@ -12,8 +12,13 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+
+	yzghf();
+	printf("\n\n");
 	    
-	    
+	yzghf2();
+	printf("\n\n");
+    
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
