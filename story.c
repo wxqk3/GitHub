@@ -19,6 +19,7 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
+	szz63one();
 
 
 	printf("\n\n");
@@ -29,6 +30,7 @@ int main( void )
 	mdsf3fSentence2();
 	shensSentence_FINAL();
 	acmyfSecond();
+	szz63two();
 
 
 	// DO NOT ADD AFTER THIS COMMENT
