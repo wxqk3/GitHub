@@ -55,7 +55,11 @@ cleanwin:
 # -----------------------------------------------
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 story: story.o bpbkt7.o yzghf.o
+=======
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o
+>>>>>>> master
 =======
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o
 >>>>>>> master
@@ -68,6 +72,7 @@ story.o: story.c
 
 # -----------------------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pawprint.o -  where is your .c derived object file - where is your file
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
@@ -76,6 +81,11 @@ yzghf.o: sentences/yzghf.c
 	$(CC) -c $<
 
 
+=======
+#pawprint.o -  where is your .c derived object file? - where is your file?
+%.o : sentences/%.c
+	$(CC) -c -o $@ $<
+>>>>>>> master
 =======
 #pawprint.o -  where is your .c derived object file? - where is your file?
 %.o : sentences/%.c

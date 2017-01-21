@@ -17,5 +17,8 @@ int acmyfFirst();
 int acmyfSecond();
 int mdsf3fSentence1();
 int mdsf3fSentence2();
+<<<<<<< HEAD
 int yzghf();
 int yzghf2();
+=======
+>>>>>>> master

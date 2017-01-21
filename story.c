@@ -13,6 +13,7 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 	yzghf();
 	printf("\n\n");
@@ -23,6 +24,8 @@ int main( void )
 	    
 	    
 =======
+=======
+>>>>>>> master
 	snhqm9_sentence1();
 	shensSentence1();
 	mdsf3fSentence1();
@@ -39,6 +42,9 @@ int main( void )
 	acmyfSecond();
 
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
