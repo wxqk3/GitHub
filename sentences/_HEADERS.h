@@ -7,3 +7,5 @@ int bensSentence_FINAL();
 // vvvvvvvvvvvvvvv  Student work goes down here
 void snhqm9_sentence1(void);
 void snhqm9_sentence2(void);
+int pje279Sentence1();
+int pje279Sentence2();

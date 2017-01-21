@@ -13,11 +13,11 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	snhqm9_sentence1();
-
+	pje279Sentence1();
 
 	printf("\n\n");
 	snhqm9_sentence2();
-
+	pje279Sentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
