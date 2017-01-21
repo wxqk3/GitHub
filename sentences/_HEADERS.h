@@ -15,4 +15,5 @@ void shensSentence1();
 void shensSentence_FINAL();
 int acmyfFirst();
 int acmyfSecond();
-
+int mdsf3fSentence1();
+int mdsf3fSentence2();
