@@ -9,7 +9,10 @@ void snhqm9_sentence1(void);
 void snhqm9_sentence2(void);
 int pje279Sentence1();
 int pje279Sentence2();
-int nicolasSmithsentence1();
-int nicolasSmithsentence2();
+int nicolasSmithsSentence1();
+int nicolasSmithsSentence2();
 void shensSentence1();
 void shensSentence_FINAL();
+int acmyfFirst();
+int acmyfSecond();
+

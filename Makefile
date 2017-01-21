@@ -54,7 +54,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o
 	$(CC) -o story $^
 
 # -----------------------------------------------

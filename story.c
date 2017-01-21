@@ -15,13 +15,17 @@ int main( void )
 	snhqm9_sentence1();
 	shensSentence1();
 	pje279Sentence1();
-	nicolasSmithsentence1();
+//	nicolasSmithsSentence1();
+	acmyfFirst();	
+
 
 	printf("\n\n");
 	snhqm9_sentence2();
 	pje279Sentence2();
-	nicolasSmithsentence2();
+//	nicolasSmithsSentence2();
 	shensSentence_FINAL();
+	acmyfSecond();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
