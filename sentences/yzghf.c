@@ -4,7 +4,7 @@
 // Function to include & executeA
 int yzghf()
 {
-  printf("There was a man named Sam.\n");
+  printf("There was a man named Sam. He loved universe so much.\n");
   return 1;
 }
 

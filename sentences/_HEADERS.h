@@ -13,12 +13,9 @@ int nicolasSmithsSentence1();
 int nicolasSmithsSentence2();
 void shensSentence1();
 void shensSentence_FINAL();
+int yzghf();
+int yzghf2();
 int acmyfFirst();
 int acmyfSecond();
 int mdsf3fSentence1();
 int mdsf3fSentence2();
-<<<<<<< HEAD
-int yzghf();
-int yzghf2();
-=======
->>>>>>> master

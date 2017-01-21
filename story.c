@@ -12,27 +12,14 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-	yzghf();
-	printf("\n\n");
-	    
-	yzghf2();
-	printf("\n\n");
-    
-	    
-	    
-=======
-=======
->>>>>>> master
 	snhqm9_sentence1();
 	shensSentence1();
 	mdsf3fSentence1();
 	pje279Sentence1();
 	nicolasSmithsSentence1();
 	acmyfFirst();
-
+    yzghf();
 	printf("\n\n");
 	snhqm9_sentence2();
 	pje279Sentence2();
@@ -40,12 +27,9 @@ int main( void )
 	mdsf3fSentence2();
 	shensSentence_FINAL();
 	acmyfSecond();
+    yzghf2();
 
 
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> master
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
