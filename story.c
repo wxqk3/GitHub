@@ -16,11 +16,14 @@ int main( void )
 	shensSentence1();
 	mdsf3fSentence1();
 	pje279Sentence1();
+	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
 
+
 	printf("\n\n");
 	snhqm9_sentence2();
+	rml3mdSecondSentence();
 	pje279Sentence2();
 	nicolasSmithsSentence2();
 	mdsf3fSentence2();
