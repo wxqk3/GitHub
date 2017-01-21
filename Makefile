@@ -54,7 +54,10 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o yzghf.o
+
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o szz63.o
+
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -63,6 +66,17 @@ story.o: story.c
 	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
+
+#pawprint.o -  where is your .c derived object file - where is your file
+bpbkt7.o: sentences/bpbkt7.c
+	$(CC) -c $<
+
+
 #pawprint.o -  where is your .c derived object file? - where is your file?
 %.o : sentences/%.c
 	$(CC) -c -o $@ $<
+
+#pawprint.o -  where is your .c derived object file? - where is your file?
+%.o : sentences/%.c
+	$(CC) -c -o $@ $<
+
