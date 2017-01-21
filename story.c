@@ -25,7 +25,7 @@ int main( void )
 
 	szz63one();
 
-
+	sskgz8sentence1();
 
 	printf("\n\n");
 	snhqm9_sentence2();
@@ -37,7 +37,7 @@ int main( void )
 	acmyfSecond();
 
     yzghf2();
-
+	sskgz8sentence_FINAL();	
 	szz63two();
 
 
