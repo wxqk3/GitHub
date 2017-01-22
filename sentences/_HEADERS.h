@@ -49,4 +49,6 @@ int jg229Sentence2();
 =======
 int jah3xc_sentence1();
 int jah3xc_sentence2();
+int ob44fFirstSentence();
+int ob44fSecondSentence();
 >>>>>>> ed2ef86fd8085f288ec51bf3cdf30188cefa7d4b
