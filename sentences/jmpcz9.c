@@ -8,6 +8,5 @@ int jmpcz9NewSentence1(){
 
 int jmpcz9NewSentence2(){
     printf("Since he didnt know what he was doing he failed the class.\n");
-    
     return 1;
 }
