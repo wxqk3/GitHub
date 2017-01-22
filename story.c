@@ -25,12 +25,14 @@ int main( void )
 	printf("\n\n");
 	jmpcz9NewSentence1();
 	yzghf();
+	jdckw4_sentence1();
 	printf("\n\n");
 	szz63one();
 	hagd5dSentence1();
 	sskgz8sentence1();
 	klft2();
 	mkc42Sentence1();
+	jdckw4_sentence2();
 	jarpqdSentence2();
 	scfpt6Sentence1();
 	printf("\n\n");
