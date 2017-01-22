@@ -15,8 +15,8 @@ int main( void )
 
     snhqm9_sentence1();
     jtl378_sentence1();
-    jtl378_sentence2();
     shensSentence1();
+    jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
     pje279Sentence1();
