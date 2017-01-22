@@ -13,6 +13,10 @@ There was a kid in Software Engineering 1 who had no idea what he was doing.
 There was a man named Sam. He loved universe so much. But the universe was
 indifferent.
 
+<<<<<<< HEAD
+The lake was a long way from here. Joe made the sugar cookies; Susan decorated them.
+The end. 
+=======
 A new day started A day filled with sunshine and happiness. Dragons were
 killing everyone Winter is comming, Nothing burns like the cold. This is your
 last chance. After this, there is no turning back. You take the blue pill - the
@@ -35,6 +39,7 @@ the breakdancers. And the smell was just fantastic.I'll be wearing my baggy
 tracksuit and high-top sneakers.Beetoven with almost certain probability was of
 African Descent! Beetoven with almost certain probability was of African
 Descent!
+>>>>>>> master
 
 The end.
 
