@@ -36,6 +36,7 @@ int main( void )
 	pje279Sentence2();
 	nicolasSmithsSentence2();
 	mdsf3fSentence2();
+	casty8Sentence1();
 	shensSentence_FINAL();
 	acmyfSecond();
 	jmpcz9NewSentence2();
@@ -44,6 +45,7 @@ int main( void )
 	szz63two();
 	hagd5dSentence2();
 	klft2_1();
+	casty8Sentence2();
 	mkc42Sentence2();
 
 
