@@ -23,7 +23,9 @@ CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
-TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_story.txt
+TEST= (./story > the_story.txt) ; cat the_story.txt
+# -----------------------------------------------DERS.h
+TEST= (./story > the_story.txt); cat the_story.txt
 
 # -----------------------------------------------
 # The standard default target is 'all'
@@ -33,7 +35,7 @@ TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_st
 
 all: story
 
-test: story
+test: 
 	@$(TEST)
 
 # -----------------------------------------------
@@ -53,8 +55,13 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
+<<<<<<< HEAD
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jarpqd.o jdckw4.o jg229.o ob44f.o
 story: story.o bpbkt7.o jah3xc.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jarpqd.o jdckw4.o
+=======
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o rhhq7.o
+
+>>>>>>> master
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -63,6 +70,7 @@ story.o: story.c
 	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
+
 
 #pawprint.o -  where is your .c derived object file - where is your file
 %.o : sentences/%.c
