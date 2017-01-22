@@ -29,5 +29,5 @@ snhqm9_sentence1()
 void
 snhqm9_sentence2()
 {
-	printf("You would never guess what happened next.");
+	printf("You would never guess what happened next. ");
 }

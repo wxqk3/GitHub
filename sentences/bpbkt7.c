@@ -4,13 +4,13 @@
 // Function to include & executeA
 int bensSentence1()
 {
-  printf("Once upon a time\n");
+  printf("Once upon a time, ");
   return 1;
 }
 
 int bensSentence_FINAL()
 {
-  printf("\nThe end. \n");
+  printf("\n\nThe end.");
   return 1;
 }
 
