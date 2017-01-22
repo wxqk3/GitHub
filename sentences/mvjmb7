@@ -4,10 +4,10 @@
 
 void mvjmb7Sentence1()
 {
-  printf("This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes. ");
+  printf("But if you take neither, I will look for you, I will find you, and I will kill you.");
 }
 
 void mvjmb7Sentence2()
 {
-  printf("Beetoven with almost certain probability was of African Descent! ");
+  printf("My precious.");
 }
