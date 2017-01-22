@@ -5,7 +5,6 @@
 
 int main( void )
 {
-<<<<<<< HEAD
 	printf("\n\n");
 	bensSentence1();
 	printf("\n\n");
@@ -19,7 +18,6 @@ int main( void )
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-=======
     printf("\n");
     bensSentence1();
     printf("\n\n");
@@ -55,7 +53,6 @@ int main( void )
     jarpqdSentence2();
     scfpt6Sentence1();
     jg229Sentence1();
-    printf("\n\n");
     snhqm9_sentence2();
     rml3mdSecondSentence();
     cgj6hb_sentence2();
@@ -77,8 +74,6 @@ int main( void )
     casty8Sentence2();
     mkc42Sentence2();
     scfpt6Sentence2();
->>>>>>> 1f301323743ce79fc37e0238ecba418ec44dc066
-
 
 
     // DO NOT ADD AFTER THIS COMMENT
