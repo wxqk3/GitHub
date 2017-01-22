@@ -45,7 +45,8 @@ int main( void )
     hagd5dSentence2();
     klft2_1();
 
-
+wxqk3Sentence1();
+wxqk3Sentence2();	
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
