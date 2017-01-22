@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="sentences">
+        <in>_HEADERS.h</in>
+        <in>acmyf.c</in>
+        <in>bpbkt7.c</in>
+        <in>casty8.c</in>
+        <in>cgj6hb.c</in>
+        <in>hagd5d.c</in>
+        <in>jarpqd.c</in>
+        <in>jdckw4.c</in>
+        <in>jmpcz9.c</in>
+        <in>klft2.c</in>
+        <in>mdsf3f.c</in>
+        <in>mkc42.c</in>
+        <in>nasz8f.c</in>
+        <in>pje279.c</in>
+        <in>rml3md.c</in>
+        <in>scfpt6.c</in>
+        <in>snhqm9.c</in>
+        <in>sskgz8.c</in>
+        <in>syg84.c</in>
+        <in>szz63.c</in>
+        <in>yzghf.c</in>
+      </df>
+      <in>jah3xc.c</in>
+      <in>story.c</in>
+    </df>
+  </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
     <conf name="Default" type="0">
@@ -9,13 +38,13 @@
       </toolsSet>
       <compile>
         <compiledirpicklist>
-          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
           <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
         </compiledirpicklist>
         <compiledir>${AUTO_FOLDER}</compiledir>
         <compilecommandpicklist>
-          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
           <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
         </compilecommandpicklist>
         <compilecommand>${AUTO_COMPILE}</compilecommand>
       </compile>
