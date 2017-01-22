@@ -54,6 +54,7 @@ int jg229Sentence1();
 int jg229Sentence2();
 int jah3xc_sentence1();
 int jah3xc_sentence2();
+int jtl378_sentence1();
+int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
-
