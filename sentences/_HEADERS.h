@@ -31,3 +31,5 @@ int klft2();
 int klft2_1();
 int cgj6hb_sentence1();
 int cgj6hb_sentence2();
+int jmpcz9NewSentence1();
+int jmpcz9NewSentence2();
