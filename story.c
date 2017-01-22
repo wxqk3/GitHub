@@ -21,6 +21,7 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
+	jmpcz9NewSentence1();
 
     yzghf();
 
@@ -40,12 +41,13 @@ int main( void )
 	mdsf3fSentence2();
 	shensSentence_FINAL();
 	acmyfSecond();
-
+	jmpcz9NewSentence2();
     yzghf2();
 	sskgz8sentence_FINAL();	
 	szz63two();
     hagd5dSentence2();
     klft2_1();
+	
 
 
 
