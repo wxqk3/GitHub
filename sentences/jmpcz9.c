@@ -3,7 +3,6 @@
 
 int jmpcz9NewSentence1(){
     printf("There was a kid in Software Engineering 1 who had no idea what he was doing.\n");
-    
     return 1;
 }
 
