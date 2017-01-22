@@ -7,7 +7,8 @@ int bensSentence_FINAL();
 // vvvvvvvvvvvvvvv  Student work goes down here
 
 
-
+int mattDSent1();
+int mattDSent2();
 void cjm539sent1();
 void cjm539sent2();
 void snhqm9_sentence1();
@@ -38,14 +39,14 @@ int cgj6hb_sentence1();
 int cgj6hb_sentence2();
 int jmpcz9NewSentence1();
 int jmpcz9NewSentence2();
+int lvkvc8_sentence1();
+int lvkvc8_sentence2();
 void mkc42Sentence1();
 void mkc42Sentence2();
 int scfpt6Sentence1();
 int scfpt6Sentence2();
 void casty8Sentence1();
 void casty8Sentence2();
-int jtmyz9_sentence1();
-int jtmyz9_sentence2();
 void jarpqdSentence1();
 void jarpqdSentence2();
 int jdckw4_sentence1();
@@ -58,5 +59,11 @@ int jtl378_sentence1();
 int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
+<<<<<<< HEAD
 int med43bSentence();
 int med43bSentence2();
+=======
+int  rhhq7Sentence1();
+int rhhq7Sentence2();
+
+>>>>>>> 21a3adef16fd1a0b31115039103b108dc045101f
