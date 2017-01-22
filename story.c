@@ -30,6 +30,7 @@ int main( void )
 	szz63one();
 	hagd5dSentence1();
 	sskgz8sentence1();
+        jah3xc_sentence1();
 	klft2();
 	mkc42Sentence1();
 	jdckw4_sentence2();
@@ -43,6 +44,7 @@ int main( void )
 	pje279Sentence2();
 	nicolasSmithsSentence2();
 	mdsf3fSentence2();
+        jah3xc_sentence2();
 	casty8Sentence1();
 	shensSentence_FINAL();
 	acmyfSecond();
