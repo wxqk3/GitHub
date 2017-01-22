@@ -65,6 +65,8 @@ int main( void )
     scfpt6Sentence2();
     mattDSent1();
     ob44fSecondSentence();
+     rhhq7Sentence1();
+     rhhq7Sentence2();
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
