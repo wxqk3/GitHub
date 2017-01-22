@@ -39,3 +39,5 @@ int scfpt6Sentence1();
 int scfpt6Sentence2();
 void casty8Sentence1();
 void casty8Sentence2();
+void jarpqdSentence1();
+void jarpqdSentence2();

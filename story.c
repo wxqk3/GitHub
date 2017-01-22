@@ -21,6 +21,8 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
+	jarpqdSentence1();
+	printf("\n\n");
 	jmpcz9NewSentence1();
 	yzghf();
 	printf("\n\n");
@@ -29,6 +31,7 @@ int main( void )
 	sskgz8sentence1();
 	klft2();
 	mkc42Sentence1();
+	jarpqdSentence2();
 	scfpt6Sentence1();
 	printf("\n\n");
 	snhqm9_sentence2();
