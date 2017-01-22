@@ -57,12 +57,19 @@ int main( void )
     sskgz8sentence_FINAL();
     szz63two();
     hagd5dSentence2();
+    ob44fFirstSentence();
     klft2_1();
     jg229Sentence2();
     casty8Sentence2();
     mkc42Sentence2();
     scfpt6Sentence2();
+<<<<<<< HEAD
     mattDSent1();
+=======
+    ob44fSecondSentence();
+
+
+>>>>>>> b030854afd316b5799f3cee608654ae84429c99f
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
