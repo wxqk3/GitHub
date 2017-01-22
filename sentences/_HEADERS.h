@@ -7,4 +7,5 @@ int bensSentence_FINAL();
 // vvvvvvvvvvvvvvv  Student work goes down here
 
 
-
+void cjm539sent1();
+void cjm539sent2();
