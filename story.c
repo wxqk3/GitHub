@@ -24,6 +24,7 @@ int main( void )
     yzghf();
 
 	szz63one();
+    hagd5dSentence1();
 
 	sskgz8sentence1();
 
@@ -39,6 +40,7 @@ int main( void )
     yzghf2();
 	sskgz8sentence_FINAL();	
 	szz63two();
+    hagd5dSentence2();
 
 
 

@@ -26,3 +26,5 @@ int rml3mdFirstSentence();
 int rml3mdSecondSentence();
 int szz63one();
 int szz63two();
+int hagd5dSentence1();
+int hagd5dSentence2();
