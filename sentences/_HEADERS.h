@@ -37,3 +37,5 @@ void mkc42Sentence1();
 void mkc42Sentence2();
 int scfpt6Sentence1();
 int scfpt6Sentence2();
+void casty8Sentence1();
+void casty8Sentence2();
