@@ -1,4 +1,3 @@
-
 #################################################
 # Makefile format
 # target: dependencies
@@ -24,16 +23,22 @@ CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
+<<<<<<< HEAD
 TEST= (./story > the_story.txt) ; cat the_story.txt
 # -----------------------------------------------DERS.h
+=======
+TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_story.txt
+
+# -----------------------------------------------
+>>>>>>> 1f301323743ce79fc37e0238ecba418ec44dc066
 # The standard default target is 'all'
 # This target has no command, only a dependency.
-# We will execute test   though, when it's built.
+# We will execute test though, when it's built.
 # -----------------------------------------------
 
 all: story
 
-test:
+test: story
 	@$(TEST)
 
 # -----------------------------------------------
@@ -46,27 +51,31 @@ clean:
 
 cleanwin:
 	$(CLEANWIN)
+
 # -----------------------------------------------
 # Now we bring in our dependencies.
-# 'all' needs 'story.o'. What does story need?
+# 'all' needs 'story'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o msdrm8.o
+<<<<<<< HEAD
+story: story.o bpbkt7.o 
+=======
+
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o
+
+
+>>>>>>> 1f301323743ce79fc37e0238ecba418ec44dc066
 	$(CC) -o story $^
-	
 
 # -----------------------------------------------
 
 story.o: story.c
-	$(CC) -c $^
+	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
+
+
 #pawprint.o -  where is your .c derived object file - where is your file
-bpbkt7.o: sentences/bpbkt7.c
-	$(CC) -c $<
-
-msdrm8.o: sentences/msdrm8.c
-	$(CC) -c $<
-
-
+%.o : sentences/%.c
+	$(CC) -c -o $@ $<
