@@ -4,13 +4,13 @@
 // Function to include & executeA
 int mattDSent1()
 {
-  printf("A very unattractive dwarf named Horatio was dumped by his unattractive dwarf girlfriend.\n");
+  printf("This is what it feels like to be schizophrenic.");
   return 1;
 }
 
 int mattDSent2()
 {
-  printf("\nHowever, even someone as cruel as the ruler of the Agile Kingdom, felt sorry for Horatio. \n");
+  printf("Also, I still play Runescape and I'm 21.");
   return 1;
 }
 
