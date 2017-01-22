@@ -58,3 +58,5 @@ int jtl378_sentence1();
 int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
+int med43bSentence();
+int med43bSentence2();
