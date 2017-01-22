@@ -35,6 +35,8 @@ int hagd5dSentence1();
 int hagd5dSentence2();
 int klft2();
 int klft2_1();
+void kfjmbb_sentence1();
+void kfjmbb_sentence2();
 int cgj6hb_sentence1();
 int cgj6hb_sentence2();
 int jmpcz9NewSentence1();
@@ -57,9 +59,5 @@ int jtl378_sentence1();
 int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
-<<<<<<< HEAD
-=======
 int  rhhq7Sentence1();
 int rhhq7Sentence2();
-
->>>>>>> master
