@@ -35,6 +35,8 @@ int hagd5dSentence1();
 int hagd5dSentence2();
 int klft2();
 int klft2_1();
+void kfjmbb_sentence1();
+void kfjmbb_sentence2();
 int cgj6hb_sentence1();
 int cgj6hb_sentence2();
 int jmpcz9NewSentence1();
@@ -65,5 +67,8 @@ int med43bSentence2();
 =======
 int  rhhq7Sentence1();
 int rhhq7Sentence2();
+<<<<<<< HEAD
 
 >>>>>>> 21a3adef16fd1a0b31115039103b108dc045101f
+=======
+>>>>>>> kfjmbb

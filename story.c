@@ -97,10 +97,12 @@ int main( void )
     jarpqdSentence1();
     printf("\n\n");
     jmpcz9NewSentence1();
+	kfjmbb_sentence2();
     cjm539sent1();
     yzghf();
     jdckw4_sentence1();
     mattDSent2();
+	kfjmbb_sentence1();
     printf("\n\n");
     szz63one();
     hagd5dSentence1();
