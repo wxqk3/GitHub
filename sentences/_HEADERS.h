@@ -5,6 +5,11 @@ int bensSentence_FINAL();
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
+
+
+
+void cjm539sent1();
+void cjm539sent2();
 void snhqm9_sentence1();
 void snhqm9_sentence2();
 int pje279Sentence1();
@@ -41,3 +46,14 @@ void casty8Sentence1();
 void casty8Sentence2();
 int jtmyz9_sentence1();
 int jtmyz9_sentence2();
+void jarpqdSentence1();
+void jarpqdSentence2();
+int jdckw4_sentence1();
+int jdckw4_sentence2();
+int jg229Sentence1();
+int jg229Sentence2();
+int jah3xc_sentence1();
+int jah3xc_sentence2();
+int ob44fFirstSentence();
+int ob44fSecondSentence();
+

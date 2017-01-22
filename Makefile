@@ -53,7 +53,8 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o
+
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jah3xc.o
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -62,6 +63,7 @@ story.o: story.c
 	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
+
 
 #pawprint.o -  where is your .c derived object file - where is your file
 %.o : sentences/%.c
