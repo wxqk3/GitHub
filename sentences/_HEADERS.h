@@ -33,6 +33,8 @@ int cgj6hb_sentence1();
 int cgj6hb_sentence2();
 int jmpcz9NewSentence1();
 int jmpcz9NewSentence2();
+int lvkvc8_sentence1();
+int lvkvc8_sentence2();
 void mkc42Sentence1();
 void mkc42Sentence2();
 int scfpt6Sentence1();

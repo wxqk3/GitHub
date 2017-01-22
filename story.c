@@ -12,7 +12,7 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
+	lvkvc8_sentence1();
 	snhqm9_sentence1();
 	shensSentence1();
 	cgj6hb_sentence1();
@@ -58,6 +58,7 @@ int main( void )
 	casty8Sentence2();
 	mkc42Sentence2();
 	scfpt6Sentence2();
+	lvkvc8_sentence2();
 
 
 
