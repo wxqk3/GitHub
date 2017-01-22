@@ -28,6 +28,8 @@ int main( void )
     hagd5dSentence1();
 
 	sskgz8sentence1();
+    
+    klft2();
 
 	printf("\n\n");
 	snhqm9_sentence2();
@@ -43,6 +45,7 @@ int main( void )
 	sskgz8sentence_FINAL();	
 	szz63two();
     hagd5dSentence2();
+    klft2_1();
 
 
 

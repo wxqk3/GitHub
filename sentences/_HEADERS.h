@@ -15,7 +15,6 @@ void shensSentence1();
 void shensSentence_FINAL();
 int yzghf();
 int sskgz8sentence1();
-
 int sskgz8sentence_FINAL();
 int yzghf2();
 int acmyfFirst();
@@ -28,5 +27,7 @@ int szz63one();
 int szz63two();
 int hagd5dSentence1();
 int hagd5dSentence2();
+int klft2();
+int klft2_1();
 int cgj6hb_sentence1();
 int cgj6hb_sentence2();
