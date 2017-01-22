@@ -63,13 +63,8 @@ int main( void )
     casty8Sentence2();
     mkc42Sentence2();
     scfpt6Sentence2();
-<<<<<<< HEAD
     mattDSent1();
-=======
     ob44fSecondSentence();
-
-
->>>>>>> b030854afd316b5799f3cee608654ae84429c99f
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
