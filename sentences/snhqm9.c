@@ -6,7 +6,6 @@
  */
 
 #include <ctype.h>
-#include <pwd.h>
 #include <stdio.h>
 #include <string.h>
 #include <sys/utsname.h>
@@ -15,16 +14,16 @@
 void
 snhqm9_sentence1()
 {
-	struct passwd *pwd;
+	char *name;
 	struct utsname un;
 
-	if ((pwd = getpwuid(getuid())) && islower(pwd->pw_name[0]))
-		pwd->pw_name[0] -= 0x20;
+	if ((name = getlogin()) && islower(name[0]))
+		name[0] -= 0x20;
 	if (uname(&un))
 		strcpy(un.sysname, "shiny new Macintosh");
 	printf("It all started one rainy evening as %s was banging away at their %s computer's "
 	       "keyboard. ",
-	       pwd ? pwd->pw_name : "our subject", un.sysname);
+	       name ? name : "our subject", un.sysname);
 }
 
 void
