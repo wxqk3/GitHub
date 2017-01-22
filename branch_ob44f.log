@@ -1,0 +1,908 @@
+commit f6a94f7d8c8d3d11ff8ac2463723c8500b6b92c5
+Author: OchirnyamB <ochirnyam@gmail.com>
+Date:   Sun Jan 22 14:55:14 2017 -0600
+
+    added my object file, and modified story
+
+ Makefile | 2 +-
+ story.c  | 5 +++--
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+
+commit d5bc07f71c4c2af22bd0d02be2156cf54c197572
+Author: OchirnyamB <ochirnyam@gmail.com>
+Date:   Sun Jan 22 14:51:10 2017 -0600
+
+    made all the right changes for the assignment
+
+ sentences/_HEADERS.h |  2 ++
+ sentences/ob44f.c    | 13 +++++++++++++
+ 2 files changed, 15 insertions(+)
+
+commit 18bd21eac90e7dbdce5dafa1da85e23098f27861
+Merge: 7da9cd0 ed2ef86
+Author: Josh Green <jg229@mail.missouri.edu>
+Date:   Sun Jan 22 14:11:07 2017 -0600
+
+    made my changes
+
+commit 7da9cd0c6dfab3d32cb0f2f26b8351a2479d7987
+Author: Josh Green <jg229@mail.missouri.edu>
+Date:   Sun Jan 22 14:09:07 2017 -0600
+
+    added my contributions
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  4 +++-
+ sentences/jg229.c    | 18 ++++++++++++++++++
+ story.c              |  2 ++
+ the_story.txt        | 12 +++++++-----
+ 5 files changed, 31 insertions(+), 7 deletions(-)
+
+commit ed2ef86fd8085f288ec51bf3cdf30188cefa7d4b
+Author: James Hurt <jah3xc@mail.missouri.edu>
+Date:   Sun Jan 22 13:54:55 2017 -0600
+
+    Other changes for jah3xc
+
+ jah3xc.c                             | 11 ++++++
+ nbproject/configurations.xml         | 76 ++++++++++++++++++++++++++++++++++++
+ nbproject/private/configurations.xml | 33 +++++++++++++++-
+ nbproject/project.xml                | 10 +++--
+ sentences/_HEADERS.h                 |  4 +-
+ story.c                              |  2 +
+ 6 files changed, 129 insertions(+), 7 deletions(-)
+
+commit 7a55bf8dd54d688905d0e881003d78d06f434aaf
+Author: James Hurt <jah3xc@mail.missouri.edu>
+Date:   Sun Jan 22 13:52:01 2017 -0600
+
+    Makefile change
+
+ Makefile                                           |   2 +-
+ nbproject/configurations.xml                       |  37 ++++++
+ nbproject/private/c_standard_headers_indexer.c     |  75 ++++++++++++
+ nbproject/private/configurations.xml               |  51 ++++++++
+ nbproject/private/cpp_standard_headers_indexer.cpp | 135 +++++++++++++++++++++
+ nbproject/private/launcher.properties              |  42 +++++++
+ nbproject/private/private.xml                      |   7 ++
+ nbproject/project.xml                              |  24 ++++
+ 8 files changed, 372 insertions(+), 1 deletion(-)
+
+commit 5c768be04a64605adcb2b70ca01151d721d351d4
+Merge: 7b2e864 4c0fcac
+Author: John (Jack) Daniel Carmichael <jdckw4@mail.missouri.edu>
+Date:   Sun Jan 22 13:10:41 2017 -0600
+
+    Merge pull request #18 from Hackers-To-Engineers/jdckw4
+    
+    Added sentences for jdckw4
+
+commit 4c0fcacade5b6a1b370b3487ab4dfa0225729ca4
+Author: Jack <jdckw4@mail.missouri.edu>
+Date:   Sun Jan 22 13:04:14 2017 -0600
+
+    Added sentences for jdckw4
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  4 +++-
+ sentences/jdckw4.c   | 11 +++++++++++
+ story.c              |  2 ++
+ the_story.txt        | 23 ++++++++++++-----------
+ 5 files changed, 29 insertions(+), 13 deletions(-)
+
+commit 7b2e8645c6bce0f2bfa0f0c81722414d6f529529
+Merge: bb2184f 0916a4e
+Author: Jeff Ruffolo <jarpqd@mail.missouri.edu>
+Date:   Sun Jan 22 12:43:06 2017 -0600
+
+    Merge pull request #17 from Hackers-To-Engineers/jarpqd
+    
+    Jarpqd files
+
+commit 0916a4ed27f2bd59c7e12b88bece492e598485c5
+Author: Jeff Ruffolo <jarpqd@mail.missouri.edu>
+Date:   Sun Jan 22 12:41:05 2017 -0600
+
+    Jarpqd files
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  2 ++
+ sentences/jarpqd.c   | 10 ++++++++++
+ story.c              |  3 +++
+ the_story.txt        | 11 +++++++----
+ 5 files changed, 23 insertions(+), 5 deletions(-)
+
+commit bb2184fe67911821c2a337f07ce1e851354d3a92
+Author: Jeff Ruffolo <jarpqd@mail.missouri.edu>
+Date:   Sun Jan 22 12:28:36 2017 -0600
+
+    Fixed issues with casty8 and scfpt6 files
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  2 ++
+ sentences/scfpt6     | 17 -----------------
+ sentences/scfpt6.c   | 14 ++++++++++++++
+ the_story.txt        | 33 ++++++++++++++++++---------------
+ 5 files changed, 35 insertions(+), 33 deletions(-)
+
+commit 56a66ac0341e573aaf858ae2d90511df233c0894
+Author: Jeremy Evers <jbekcc@mail.missouri.edu>
+Date:   Sun Jan 22 12:03:36 2017 -0600
+
+    Update README.md
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f238a36284de79983fc4ecae32cff06154dc78f3
+Merge: f57d8c1 5eda00f
+Author: sfikas0221 <stelios.fikas@gmail.com>
+Date:   Sun Jan 22 11:32:31 2017 -0600
+
+    Merge pull request #16 from Hackers-To-Engineers/scfpt6
+    
+    Merge remote-tracking branch 'refs/remotes/origin/master' into scfpt6
+
+commit 5eda00f2fff7c00064473e1468e73509e5afdc1f
+Merge: 5a6a297 4abdac0
+Author: sfikas0221 <stelios.fikas@gmail.com>
+Date:   Sun Jan 22 11:31:28 2017 -0600
+
+    Merge remote-tracking branch 'refs/remotes/origin/master' into scfpt6
+
+commit f57d8c129f5cc1cfb9e4f81065d3ab0c2e73e32c
+Author: sfikas0221 <stelios.fikas@gmail.com>
+Date:   Sun Jan 22 11:29:32 2017 -0600
+
+    Create scfpt6
+
+ sentences/scfpt6 | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit 59afe1461486f5d85ce59586a9d192ad8ddec839
+Author: sfikas0221 <stelios.fikas@gmail.com>
+Date:   Sun Jan 22 11:26:26 2017 -0600
+
+    Update story.c
+
+ story.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 4abdac080bb7b4c83ea248f4119146a321bb7249
+Author: sfikas0221 <stelios.fikas@gmail.com>
+Date:   Sun Jan 22 11:25:16 2017 -0600
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 5a6a297cfc9fad0c51ba20e82baebbe80904022f
+Merge: 33c9782 623dd7f
+Author: sfikas0221 <stelios.fikas@gmail.com>
+Date:   Sun Jan 22 11:12:55 2017 -0600
+
+    Merge remote-tracking branch 'refs/remotes/origin/casty8' into scfpt6
+
+commit 623dd7fa0b0b61427bc8df7e5ca19d2c15f09295
+Author: Coy Schroder <cschroder4@yahoo.com>
+Date:   Sun Jan 22 10:40:16 2017 -0600
+
+    Add files via upload
+
+ story.c | 114 +++++++++++++++++++++++++++++++++-------------------------------
+ 1 file changed, 58 insertions(+), 56 deletions(-)
+
+commit fa7b8823c97d8ee9ae530de95fa0f9fed5d1f0af
+Author: Coy Schroder <cschroder4@yahoo.com>
+Date:   Sun Jan 22 10:39:23 2017 -0600
+
+    Add files via upload
+    
+    Added sentences
+
+ sentences/casty8.c | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit 33c97824f28401711e4b382514afb4f0b21fa754
+Author: Coy Schroder <cschroder4@yahoo.com>
+Date:   Sun Jan 22 10:11:15 2017 -0600
+
+    Delete casty8.c
+
+ sentences/casty8.c | 11 -----------
+ 1 file changed, 11 deletions(-)
+
+commit 08997fb59870c111e8f97188ead8f847239c3865
+Author: Coy Schroder <cschroder4@yahoo.com>
+Date:   Sun Jan 22 10:08:03 2017 -0600
+
+    Add files via upload
+    
+    Added sentences file
+
+ sentences/casty8.c | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit 7c73faa2f05403ff7874f150cd3c244755d8cd44
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Sun Jan 22 01:09:24 2017 -0600
+
+    reduce chaos in spacing
+
+ sentences/acmyf.c  |  4 ++--
+ sentences/bpbkt7.c |  4 ++--
+ sentences/cgj6hb.c |  6 +++---
+ sentences/hagd5d.c |  4 ++--
+ sentences/jmpcz9.c |  4 ++--
+ sentences/klft2.c  |  4 ++--
+ sentences/mdsf3f.c |  6 +++---
+ sentences/mkc42.c  |  4 ++--
+ sentences/nasz8f.c |  4 ++--
+ sentences/pje279.c |  4 ++--
+ sentences/rml3md.c |  4 ++--
+ sentences/snhqm9.c |  2 +-
+ sentences/sskgz8.c |  4 ++--
+ sentences/syg84.c  |  4 ++--
+ sentences/szz63.c  |  4 ++--
+ sentences/yzghf.c  |  4 ++--
+ story.c            | 21 ++++++++-----------
+ the_story.txt      | 59 +++++++++++++++++++++++-------------------------------
+ 18 files changed, 66 insertions(+), 80 deletions(-)
+
+commit 5c1e8c234705cd111c8179fb1b73b9bcc33b74f7
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Sun Jan 22 00:55:53 2017 -0600
+
+    clean up Makefile and fix compilation
+
+ Makefile | 18 +-----------------
+ 1 file changed, 1 insertion(+), 17 deletions(-)
+
+commit 48b20e4636736933c177f6b5a27f7db0982f5583
+Merge: cb29483 05e323c
+Author: Moesaeah King <mkc42@mail.missouri.edu>
+Date:   Sun Jan 22 00:33:31 2017 -0600
+
+    Merge pull request #15 from Hackers-To-Engineers/mkc42
+    
+    Added Some Changes
+
+commit 05e323ce736dad61ce4ae6d839460b0792b3fa6a
+Author: MosesKing <mkc42@mail.missouri.edu>
+Date:   Sun Jan 22 00:24:48 2017 -0600
+
+    Added Some Changes
+    
+    Added a call of my sentences that can be found in “mkc42.c” to the
+    header file (_HEADERS.h) . The call to print those sentences were added
+    to story.c.
+
+ sentences/_HEADERS.h |  2 ++
+ sentences/mkc42.c    | 13 +++++++++++++
+ story.c              | 12 ++++++------
+ 3 files changed, 21 insertions(+), 6 deletions(-)
+
+commit cb2948384397a4f3609f9565030c508f6907f5c8
+Author: JayPhippss <PhippsJaylin@gmail.com>
+Date:   Sat Jan 21 23:26:01 2017 -0600
+
+    added sentences
+
+ sentences/jmpcz9.c | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 0274963cc53e14b8c4d6605de47f49020d7fb56c
+Author: JayPhippss <PhippsJaylin@gmail.com>
+Date:   Sat Jan 21 23:25:23 2017 -0600
+
+    Update jmpcz9.c
+    
+    Added sentences
+
+ sentences/jmpcz9.c | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 23f08e9577fa9f3e0a17231797d82df70ae2c3ba
+Author: JayPhippss <PhippsJaylin@gmail.com>
+Date:   Sat Jan 21 23:23:13 2017 -0600
+
+    Create jmpcz9.c
+
+ sentences/jmpcz9.c | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 83b50aacb89efbe0072db2734d5f7192f004c527
+Author: JayPhippss <PhippsJaylin@gmail.com>
+Date:   Sat Jan 21 23:12:13 2017 -0600
+
+    Update Makefile
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 9e608dcea988b541d5306e16cffe949cac126211
+Author: JayPhippss <PhippsJaylin@gmail.com>
+Date:   Sat Jan 21 23:10:37 2017 -0600
+
+    Update story.c
+
+ story.c | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 744456ecab963555edb1be476c93caaa3b322b8f
+Author: JayPhippss <PhippsJaylin@gmail.com>
+Date:   Sat Jan 21 23:08:42 2017 -0600
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 8dda40ff8092da21716827bd2281930137ba1b4d
+Merge: 3ceed5b 1f1818e
+Author: Chris Jansson <cgj6hb@mail.missouri.edu>
+Date:   Sat Jan 21 20:54:42 2017 -0600
+
+    Fixed merge conflicts
+
+commit 3ceed5b36e7feacb2138d6adbe6178a4537acb4f
+Author: Chris Jansson <cgj6hb@mail.missouri.edu>
+Date:   Sat Jan 21 20:45:12 2017 -0600
+
+    Added my sentences and updated relevant files
+
+ Makefile             |  5 +++--
+ sentences/_HEADERS.h |  4 +++-
+ sentences/cgj6hb.c   | 11 +++++++++++
+ sentences/pje279.c   |  2 +-
+ story.c              |  2 ++
+ the_story.txt        |  7 ++++++-
+ 6 files changed, 26 insertions(+), 5 deletions(-)
+
+commit 1f1818e85d03a5a1d7fd98f9ab61affa459927ea
+Merge: 85d78ef 18ee1d9
+Author: likexin <danielleeprince@gmail.com>
+Date:   Sat Jan 21 20:20:46 2017 -0600
+
+    Merge branch 'klft2'
+
+commit 18ee1d9f01fe484806d9a4cd8d8d65d0540ad916
+Author: likexin <danielleeprince@gmail.com>
+Date:   Sat Jan 21 20:20:23 2017 -0600
+
+    likexin
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  4 +++-
+ sentences/klft2.c    | 18 ++++++++++++++++++
+ story.c              |  3 +++
+ the_story.txt        |  9 +++++++--
+ 5 files changed, 32 insertions(+), 4 deletions(-)
+
+commit 85d78efe7669001db59ff2e83cf8a39593118435
+Merge: 6a5d292 6a19e81
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Sat Jan 21 19:13:19 2017 -0600
+
+    Merge branch 'snhqm9'
+
+commit 6a19e8108762cb26893aedd6a6367cbc1d4f11e0
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Sat Jan 21 19:12:16 2017 -0600
+
+    use getlogin instead of getpwnam for portability
+    
+    getpwnam (pwd.h) is not available in all systems
+    
+    Fixes #11
+
+ sentences/snhqm9.c | 9 ++++-----
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+
+commit 6a5d29263a99bcb0c6f602828326874f8f392e18
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Sat Jan 21 19:06:55 2017 -0600
+
+    remove generated files
+
+ bpbkt7.o | Bin 972 -> 0 bytes
+ story    | Bin 14068 -> 0 bytes
+ story.o  | Bin 1944 -> 0 bytes
+ yzghf.o  | Bin 992 -> 0 bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 53c372df30f1bdd479e30cd9330975f80cecc601
+Merge: ef007c6 f7cf47d
+Author: HGinther <hginther13@gmail.com>
+Date:   Sat Jan 21 18:36:00 2017 -0600
+
+    Merge pull request #14 from Hackers-To-Engineers/hagd5d
+    
+    pull_hagd5d
+
+commit f7cf47df32640cf5e6e7908c8013fbc677af7fb7
+Merge: 52fcb0b ef007c6
+Author: HGinther <hginther13@gmail.com>
+Date:   Sat Jan 21 18:35:48 2017 -0600
+
+    Merge branch 'master' into hagd5d
+
+commit 52fcb0beaf698540d15c684fee687983e6558677
+Author: Hunter <hginther13@gmail.com>
+Date:   Sat Jan 21 18:27:17 2017 -0600
+
+    Added my sentences to the project.
+
+ Makefile             |   4 ++--
+ sentences/_HEADERS.h |   2 ++
+ sentences/hagd5d.c   |  11 +++++++++++
+ story                | Bin 9868 -> 14068 bytes
+ story.c              |   2 ++
+ story.o              | Bin 1848 -> 1944 bytes
+ the_story.txt        |   6 ++++--
+ 7 files changed, 21 insertions(+), 4 deletions(-)
+
+commit 5dd9737b7f37f2f6b3fe7c6cd76b0558ee10b755
+Merge: 7b60117 07b7b6e
+Author: Shaowei Zhou <weizsw888@gmail.com>
+Date:   Sat Jan 21 17:14:14 2017 -0600
+
+    Merge branch 'yzghf'
+
+commit 07b7b6e0f74f7875d2be89edfb254956cb48204d
+Author: Shaowei Zhou <weizsw888@gmail.com>
+Date:   Sat Jan 21 17:11:18 2017 -0600
+
+    error fix
+
+ Makefile      |   5 ++---
+ story         | Bin 9652 -> 9868 bytes
+ story.c       |  12 ++++++------
+ story.o       | Bin 1648 -> 1848 bytes
+ the_story.txt |   2 ++
+ 5 files changed, 10 insertions(+), 9 deletions(-)
+
+commit f17aa1c33b0bdd8aae390a27c3083c5b2352fd16
+Merge: 6b7fb8c 7b60117
+Author: Shaowei Zhou <weizsw888@gmail.com>
+Date:   Sat Jan 21 17:10:09 2017 -0600
+
+    Merge branch 'master' into yzghf
+    
+    # Conflicts:
+    #       Makefile
+    #       story.c
+
+commit 7b60117363f48056a8d96fb2b80eac06a9a20ca3
+Merge: f1ce264 5ed2563
+Author: Shaowei Zhou <weizsw888@gmail.com>
+Date:   Sat Jan 21 17:00:04 2017 -0600
+
+    Merge branch 'szz63'
+
+commit 5ed25633c2799a4accd0088f76e6d267d81ec3f6
+Author: Shaowei Zhou <weizsw888@gmail.com>
+Date:   Sat Jan 21 16:59:53 2017 -0600
+
+    added
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  2 ++
+ sentences/szz63.c    | 18 ++++++++++++++++++
+ story.c              |  2 ++
+ the_story.txt        |  4 +++-
+ 5 files changed, 26 insertions(+), 2 deletions(-)
+
+commit 6b7fb8ce9a6f288cae9e9c70ca83d6c030f406e1
+Author: Yizhuzhu <zyyizhu@gmail.com>
+Date:   Sat Jan 21 16:59:36 2017 -0600
+
+    Edit again
+
+ Makefile             |  22 ++++------------------
+ sentences/_HEADERS.h |   7 ++-----
+ sentences/yzghf.c    |   2 +-
+ story                | Bin 8600 -> 9652 bytes
+ story.c              |  20 ++------------------
+ story.o              | Bin 1076 -> 1648 bytes
+ yzghf.o              | Bin 968 -> 992 bytes
+ 7 files changed, 9 insertions(+), 42 deletions(-)
+
+commit f1ce264cce970c576b4e953bc8beb06d71086fc9
+Merge: fb8260b 0d8b73a
+Author: Ryan Lapeyre <ryanlapeyre@gmail.com>
+Date:   Sat Jan 21 16:49:04 2017 -0600
+
+    Merge pull request #9 from Hackers-To-Engineers/rml3md
+    
+    Updated the_story.txt file.
+
+commit ef007c6e960b3afd0ff51292e858c50e5037c669
+Author: Sam <sskgz8@mail.missouri.edu>
+Date:   Sat Jan 21 22:45:48 2017 +0000
+
+    Added my sentences to the project and fixed issues with the makefile.
+
+ Makefile             | 12 +++++++++---
+ sentences/_HEADERS.h |  7 +++++--
+ sentences/sskgz8.c   | 24 ++++++++++++++++++++++++
+ story.c              |  4 ++--
+ 4 files changed, 40 insertions(+), 7 deletions(-)
+
+commit 0d8b73a563105d80c916f22e30022cb9e9ebee60
+Author: ryanlapeyre <ryanlapeyre@gmail.com>
+Date:   Sat Jan 21 16:43:09 2017 -0600
+
+    Updated the_story.txt file.
+
+ the_story.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit fb8260b3618fdfe31bd3ec2a0d6c5378275c9318
+Merge: d7e5e60 5b6aa88
+Author: Ryan Lapeyre <ryanlapeyre@gmail.com>
+Date:   Sat Jan 21 16:36:27 2017 -0600
+
+    Merge pull request #8 from Hackers-To-Engineers/rml3md
+    
+    Added my files and updated the Makefile.
+
+commit 5b6aa88ec630885d594cb077e54840bf9e0a1692
+Author: ryanlapeyre <ryanlapeyre@gmail.com>
+Date:   Sat Jan 21 16:34:42 2017 -0600
+
+    Added my files and updated the Makefile.
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  2 ++
+ sentences/rml3md.c   | 16 ++++++++++++++++
+ story.c              |  3 +++
+ 4 files changed, 22 insertions(+), 1 deletion(-)
+
+commit 8885b2ce3f8736fbda6f85dc873a132a568d7642
+Merge: 02edd93 d7e5e60
+Author: Yizhuzhu <zyyizhu@gmail.com>
+Date:   Sat Jan 21 16:34:26 2017 -0600
+
+    Merge branch 'master' into yzghf
+    
+    # Conflicts:
+    #       Makefile
+    #       story.c
+
+commit 02edd93af7db98c5b15e185a8dc2011306f89c9e
+Author: Yizhuzhu <zyyizhu@gmail.com>
+Date:   Sat Jan 21 16:34:19 2017 -0600
+
+    Merge branch 'master' into yzghf
+    
+    # Conflicts:
+    #       Makefile
+    #       story.c
+
+ .gitignore           |  2 ++
+ Makefile             | 22 ++++++++++++++++------
+ sentences/_HEADERS.h | 19 ++++++++++++++-----
+ sentences/acmyf.c    | 18 ++++++++++++++++++
+ sentences/mdsf3f.c   | 12 ++++++++++++
+ sentences/nasz8f.c   | 13 +++++++++++++
+ sentences/pje279.c   | 15 +++++++++++++++
+ sentences/snhqm9.c   | 34 ++++++++++++++++++++++++++++++++++
+ sentences/syg84.c    | 16 ++++++++++++++++
+ sentences/yzghf.c    |  2 +-
+ story.c              | 19 +++++++++++++++++++
+ the_story.txt        | 17 ++++++++++++++++-
+ 12 files changed, 176 insertions(+), 13 deletions(-)
+
+commit f284f0c7b885f4e6d5d0adcd07f8a1fb656a80ef
+Author: Yizhuzhu <zyyizhu@gmail.com>
+Date:   Sat Jan 21 16:13:37 2017 -0600
+
+    Step 2
+    
+    Some changes.
+
+ Makefile             |   5 ++++-
+ bpbkt7.o             | Bin 0 -> 972 bytes
+ sentences/_HEADERS.h |   2 ++
+ sentences/yzghf.c    |  15 +++++++++++++++
+ story                | Bin 0 -> 8600 bytes
+ story.c              |   7 ++++++-
+ story.o              | Bin 0 -> 1076 bytes
+ yzghf.o              | Bin 0 -> 968 bytes
+ 8 files changed, 27 insertions(+), 2 deletions(-)
+
+commit d7e5e60824ce511e5f5e5957b5772f02d8810106
+Merge: 07101d4 46cf6eb
+Author: Michael Smith <mdsf3f@mail.missouri.edu>
+Date:   Sat Jan 21 16:13:31 2017 -0600
+
+    Merge branch 'mdsf3f'
+
+commit 07101d49f075a84bda93978c912b2a976ef1ea06
+Author: Chen <acmyf@tc-login.cobalt.lan>
+Date:   Sat Jan 21 15:59:10 2017 -0600
+
+    Alain's commit
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  7 +++++--
+ sentences/acmyf.c    | 18 ++++++++++++++++++
+ story.c              |  8 ++++++--
+ the_story.txt        | 11 +++++++----
+ 5 files changed, 37 insertions(+), 9 deletions(-)
+
+commit 46cf6eb27d43554d21b93d176f612bf4409ce3f6
+Author: Michael Smith <mdsf3f@mail.missouri.edu>
+Date:   Sat Jan 21 15:58:22 2017 -0600
+
+    Updated makefile
+
+ Makefile      | 2 +-
+ the_story.txt | 6 ++++--
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+
+commit 267a98a791eb1f4f2415b327ba16e1849a452bb7
+Author: Michael Smith <mdsf3f@mail.missouri.edu>
+Date:   Sat Jan 21 15:57:17 2017 -0600
+
+    Created sentences and updated the story file.
+
+ sentences/mdsf3f.c | 4 ++--
+ story.c            | 2 ++
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 9fec356395bdc26d59bbf22ff94f57a43e3f2011
+Author: Michael Smith <mdsf3f@mail.missouri.edu>
+Date:   Sat Jan 21 15:52:55 2017 -0600
+
+    Created sentence file and fixed building issues
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  6 ++++--
+ sentences/mdsf3f.c   | 12 ++++++++++++
+ sentences/nasz8f.c   |  4 ++--
+ story.c              |  4 ++--
+ the_story.txt        |  8 +++++---
+ 6 files changed, 26 insertions(+), 10 deletions(-)
+
+commit 75485a3b44dc89bd63f77d63bf83d7d91650ee36
+Merge: 80d35e8 1a1b910
+Author: nasz8f <nasz8f@mail.missouri.edu>
+Date:   Sat Jan 21 14:44:47 2017 -0600
+
+    Merge pull request #7 from Hackers-To-Engineers/nasz8f
+    
+    Nasz8f
+
+commit 1a1b91080f2c712dc440db2b3b6820e7b24259f6
+Author: nasz8f <nasz8f@mail.missouri.edu>
+Date:   Sat Jan 21 14:40:26 2017 -0600
+
+    Update the_story.txt
+
+ the_story.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 815b7bcc706e47fa890072327a6b565612c99f2e
+Author: nasz8f <nasz8f@mail.missouri.edu>
+Date:   Sat Jan 21 14:38:25 2017 -0600
+
+    Update story.c
+
+ story.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 317f322c5a6e76e8f63572d07fd1b95fe85dd2d4
+Author: nasz8f <nasz8f@mail.missouri.edu>
+Date:   Sat Jan 21 14:32:58 2017 -0600
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 1016f2850b2baaf7c53bdb6c6e897486507f131d
+Author: nasz8f <nasz8f@mail.missouri.edu>
+Date:   Sat Jan 21 14:30:06 2017 -0600
+
+    my files
+
+ sentences/nasz8f.c | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit 80d35e8a49dbb756f1fd95f5989fb6ab2a59c985
+Merge: 6625081 1c255c2
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:25:47 2017 -0600
+
+    Merge branch 'syg84'
+    
+    Merged syg84 into master
+
+commit 1c255c21f8a49585c512e06c8b6ff430f6feb908
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:24:54 2017 -0600
+
+    makefile updated
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit a802a79cdbeb69a155ef96d61002026a7e172b58
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:24:13 2017 -0600
+
+    story updated
+
+ story.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit c80274b125a07b4df44d23cc852de487056d86b7
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:23:00 2017 -0600
+
+    made functions and headers
+
+ sentences/_HEADERS.h |  2 ++
+ sentences/syg84.c    | 16 ++++++++++++++++
+ 2 files changed, 18 insertions(+)
+
+commit 66250814f47b369146f911e75820b1657547e8c3
+Author: nasz8f <nasz8f@mail.missouri.edu>
+Date:   Sat Jan 21 14:21:25 2017 -0600
+
+    Add files via upload
+    
+    My 2 sentences to be added.
+
+ sentences/nasz8f.c | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+commit cb3c0298b9eebf5b37214a50f11bf92671ac5303
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:17:51 2017 -0600
+
+    clumsy reset bc I forgot to make a branch
+
+ Makefile             | 2 +-
+ sentences/_HEADERS.h | 2 --
+ sentences/syg84.c    | 0
+ story.c              | 2 --
+ 4 files changed, 1 insertion(+), 5 deletions(-)
+
+commit f9e72bc2896c0991ce915706a22956bbe4fb7d34
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:11:07 2017 -0600
+
+    forgot c file
+
+ story.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit beeab7723d7223cb2b6fc4d2d063285b4c3dea64
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:08:35 2017 -0600
+
+    all working
+
+ Makefile             | 2 +-
+ sentences/_HEADERS.h | 4 +++-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit bf389b7d3842861e054fd9df7392d9b934afbd89
+Author: FireLemons <shenyang64@gmail.com>
+Date:   Sat Jan 21 14:07:16 2017 -0600
+
+    made c file
+
+ sentences/syg84.c | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4fecad1dd1a267f36de55403f8fcb1c5ecf30131
+Merge: 35b3099 fb5de1b
+Author: Peter <p.eckelmann@gmail.com>
+Date:   Sat Jan 21 08:42:17 2017 -0600
+
+    Merge remote-tracking branch 'refs/remotes/origin/pje279'
+
+commit fb5de1b18fe9b8480a14e8b0616f21c2038f784c
+Author: Peter <p.eckelmann@gmail.com>
+Date:   Sat Jan 21 08:39:09 2017 -0600
+
+    Added my sentences.
+
+ Makefile             |  2 +-
+ sentences/_HEADERS.h |  2 ++
+ sentences/pje279.c   | 15 +++++++++++++++
+ story.c              |  4 ++--
+ the_story.txt        |  8 ++++++--
+ 5 files changed, 26 insertions(+), 5 deletions(-)
+
+commit 35b30992bcf05044828ed12fa9914859b6d355d8
+Merge: cb8886c c4ca44c
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Thu Jan 19 13:35:15 2017 -0600
+
+    Merge branch 'snhqm9'
+
+commit c4ca44c5e7c789491b9aeedffff7ff706825bcac
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Thu Jan 19 13:27:46 2017 -0600
+
+    snhqm9: add my two sentences
+
+ Makefile             | 10 ++++------
+ sentences/_HEADERS.h |  5 ++---
+ sentences/snhqm9.c   | 34 ++++++++++++++++++++++++++++++++++
+ story.c              | 11 +++++++----
+ the_story.txt        |  5 ++++-
+ 5 files changed, 51 insertions(+), 14 deletions(-)
+
+commit 32d5661bab9d56137f6a3f02ec0913b4cccbb2ac
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Thu Jan 19 13:33:48 2017 -0600
+
+    use sed to remove trailing whitespace
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 89efc846fc7f87c3e5b86dec09924a8478365e35
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Thu Jan 19 13:28:35 2017 -0600
+
+    use fold to avoid needing a newline after each sentence
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit bd0136891ce553454ee0b097b9b6a3f82b915dea
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Thu Jan 19 13:29:04 2017 -0600
+
+    'make test' should depend on the built binary
+
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 15f08c224c9bfdef0824d978d331d4a32fcfb0a8
+Author: Samuel Holland <samuel@sholland.org>
+Date:   Thu Jan 19 12:57:49 2017 -0600
+
+    minor cleanup
+    
+    - add gitignore to avoid checking in object files
+    - the_story.txt does not need to be executable
+    - typo fixes in Makefile
+    - be slightly more explicit with Makefile rules
+
+ .gitignore    | 2 ++
+ Makefile      | 8 ++++----
+ the_story.txt | 0
+ 3 files changed, 6 insertions(+), 4 deletions(-)
+
+commit cb8886c41c12c675360536fcd516d5bd4ce412c5
+Author: Goggins, Sean Patrick <gogginss@missouri.edu>
+Date:   Thu Jan 19 12:04:54 2017 -0600
+
+    Added Assignment Instructions
+
+ Github exercise_1.docx | Bin 0 -> 133730 bytes
+ Github exercise_1.pdf  | Bin 0 -> 117575 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6dbaafaf7570c7046cf8af687679ec17cfcd17e0
+Author: Goggins, Sean Patrick <gogginss@missouri.edu>
+Date:   Thu Jan 19 12:00:23 2017 -0600
+
+    Initial Commit
+
+ Makefile             | 70 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md            |  4 +++
+ sentences/_HEADERS.h | 10 ++++++++
+ sentences/bpbkt7.c   | 18 ++++++++++++++
+ story.c              | 26 +++++++++++++++++++
+ the_story.txt        |  9 +++++++
+ 6 files changed, 137 insertions(+)
