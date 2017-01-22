@@ -29,8 +29,10 @@ int main( void )
     hagd5dSentence1();
 
 	sskgz8sentence1();
-    
+
     klft2();
+	mkc42Sentence1();
+
 
 	printf("\n\n");
 	snhqm9_sentence2();
@@ -43,11 +45,12 @@ int main( void )
 	acmyfSecond();
 	jmpcz9NewSentence2();
     yzghf2();
-	sskgz8sentence_FINAL();	
+	sskgz8sentence_FINAL();
 	szz63two();
     hagd5dSentence2();
     klft2_1();
-	
+	mkc42Sentence2();
+
 
 
 
@@ -56,6 +59,3 @@ int main( void )
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
-
-
