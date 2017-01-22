@@ -26,6 +26,7 @@ int main( void )
     jarpqdSentence1();
     printf("\n\n");
     jmpcz9NewSentence1();
+    cjm539sent1();
     yzghf();
     jdckw4_sentence1();
     printf("\n\n");
@@ -52,6 +53,7 @@ int main( void )
     acmyfSecond();
     jmpcz9NewSentence2();
     yzghf2();
+    cjm539sent2();
     sskgz8sentence_FINAL();
     szz63two();
     hagd5dSentence2();
