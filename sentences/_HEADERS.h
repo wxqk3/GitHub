@@ -28,3 +28,5 @@ int szz63one();
 int szz63two();
 int hagd5dSentence1();
 int hagd5dSentence2();
+int cgj6hb_sentence1();
+int cgj6hb_sentence2();

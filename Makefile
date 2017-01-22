@@ -30,7 +30,7 @@ TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_st
 # -----------------------------------------------
 # The standard default target is 'all'
 # This target has no command, only a dependency.
-# We will execute test   though, when it's built.
+# We will execute test though, when it's built.
 # -----------------------------------------------
 
 all: story
@@ -56,7 +56,7 @@ cleanwin:
 # -----------------------------------------------
 
 
-story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o cgj6hb.o
 
 
 	$(CC) -o story $^
@@ -73,6 +73,7 @@ bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
 sskgz8.o: sentences/sskgz8.c
 	$(CC) -c $<
+cgj6hb.o: sentences/cgj6hb.c
 
 #pawprint.o -  where is your .c derived object file? - where is your file?
 %.o : sentences/%.c
