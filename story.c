@@ -29,11 +29,13 @@ int main( void )
 	sskgz8sentence1();
 	klft2();
 	mkc42Sentence1();
+	mvjmb7Sentence1();
 	scfpt6Sentence1();
 	printf("\n\n");
 	snhqm9_sentence2();
 	rml3mdSecondSentence();
 	cgj6hb_sentence2();
+	mvjmb7Sentence2();
 	pje279Sentence2();
 	nicolasSmithsSentence2();
 	mdsf3fSentence2();
