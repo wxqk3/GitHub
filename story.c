@@ -63,6 +63,8 @@ int main( void )
     casty8Sentence2();
     mkc42Sentence2();
     scfpt6Sentence2();
+    xwq58First();
+    xwq58Second();
 <<<<<<< HEAD
     mattDSent1();
 =======
