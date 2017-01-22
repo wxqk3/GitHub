@@ -43,3 +43,5 @@ void jarpqdSentence1();
 void jarpqdSentence2();
 int jdckw4_sentence1();
 int jdckw4_sentence2();
+int jg229Sentence1();
+int jg229Sentence2();
