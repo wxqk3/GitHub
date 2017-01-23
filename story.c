@@ -27,6 +27,7 @@ int main( void )
     acmyfFirst();
     mtrmt9First();	
     jarpqdSentence1();
+    yqzn9_one();
     printf("\n\n");
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
@@ -73,13 +74,13 @@ int main( void )
     printf("\n\n");
     med43bSentence();
     nicksen1();
-    med43bSentence2();
-   
-
+    med43bSentence2(); 
+    yqzn9_two();
     mattDSent1();
     ob44fSecondSentence();
-     rhhq7Sentence1();
-     rhhq7Sentence2();
+    rhhq7Sentence1();
+    rhhq7Sentence2();
+
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
