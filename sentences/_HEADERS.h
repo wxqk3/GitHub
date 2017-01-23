@@ -66,3 +66,5 @@ int med43bSentence();
 int med43bSentence2();
 int  rhhq7Sentence1();
 int rhhq7Sentence2();
+int argkd61();
+int argkd62();
