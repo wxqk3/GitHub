@@ -4,13 +4,13 @@
 // Function to include & executeA
 int jpfvx8Sentence1()
 {
-  printf("Once upon a time, ");
+  printf("But then she ate it anyway");
   return 1;
 }
 
 int jpfvx8Sentence2()
 {
-  printf("\n\nThe end.");
+  printf("And quickly realized that was a bad idea.");
   return 1;
 }
 
