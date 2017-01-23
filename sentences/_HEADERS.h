@@ -72,6 +72,8 @@ int trevBSent1();
 int trevBSent2();
 void bcspq4sent1();
 void bcspq4sent2();
+int kjf3mdSentence1();
+int kjf3mdSentence_FINAL();
 
 int med43bSentence();
 int med43bSentence2();
