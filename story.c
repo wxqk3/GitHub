@@ -38,6 +38,7 @@ int main( void )
 	jarpqdSentence2();
 	scfpt6Sentence1();
     jg229Sentence1();
+	blkz85First();
 	printf("\n\n");
 	snhqm9_sentence2();
 	rml3mdSecondSentence();
@@ -60,7 +61,7 @@ int main( void )
 	casty8Sentence2();
 	mkc42Sentence2();
 	scfpt6Sentence2();
-
+	blkz85Second();
 
 
 	// DO NOT ADD AFTER THIS COMMENT
