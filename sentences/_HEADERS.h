@@ -6,7 +6,8 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
 
-
+int mtrmt9First();
+int mtrmt9Second();
 int mattDSent1();
 int mattDSent2();
 void cjm539sent1();
