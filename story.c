@@ -37,7 +37,6 @@ int main( void )
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
 	xwq58First();
-
     printf("\n\n");
     jmpcz9NewSentence1();
     kjf3mdSentence1();
@@ -99,10 +98,6 @@ int main( void )
     blkz85Second();
     twv8f9Sentence1();
 
-
-	// DO NOT ADD AFTER THIS COMMENT
-	// Bens sentence should be last.
-	bensSentence_FINAL();
 	printf("\n\n");
     rrsqp4sentence1();
     printf("\n\n");
@@ -130,6 +125,8 @@ int main( void )
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
+	asbrm5Sentence1();
+	asbrm5Sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
