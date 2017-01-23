@@ -19,6 +19,8 @@ int main( void )
     jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
+	bcspq4sent1();
+	bcspq4sent2();
     pje279Sentence1();
     rml3mdFirstSentence();
     nicolasSmithsSentence1();
