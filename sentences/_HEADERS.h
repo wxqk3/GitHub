@@ -65,9 +65,14 @@ int jtl378_sentence1();
 int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
+
+void bcspq4sent1();
+void bcspq4sent2();
+
 int med43bSentence();
 int med43bSentence2();
 int  rhhq7Sentence1();
 int rhhq7Sentence2();
 int argkd61();
 int argkd62();
+
