@@ -81,3 +81,5 @@ int zanSentenceOne();
 int zanSentenceTwo();
 void basqr4Sentence1();
 void basqr4Sentence2();
+int annhx3Sentence1();
+int annhx3Sentence2();

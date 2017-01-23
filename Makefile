@@ -57,7 +57,7 @@ cleanwin:
 
 
 
-story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o mtrmt9.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o yqzn9.o zj5ff.o bcspq4.o ndtptb.o med43b.o rhhq7.o kfjmbb.o basqr4.o
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o mtrmt9.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o yqzn9.o zj5ff.o bcspq4.o ndtptb.o med43b.o rhhq7.o kfjmbb.o basqr4.o annhx3.o
 	$(CC) -o story $^
 
 # -----------------------------------------------
