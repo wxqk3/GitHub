@@ -31,11 +31,8 @@ int main( void )
 	sskgz8sentence1();
 	klft2();
 	mkc42Sentence1();
-<<<<<<< HEAD
 	mvjmb7Sentence1();
-=======
 	jarpqdSentence2();
->>>>>>> master
 	scfpt6Sentence1();
 	printf("\n\n");
 	snhqm9_sentence2();
