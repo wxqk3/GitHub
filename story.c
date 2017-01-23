@@ -11,8 +11,10 @@ int main( void )
 
     // Add your sentence.
     // Don't forget to update the header file.
-    // vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
+    // vvvvvvvvvvvvvvvv STUDENT WORK H
+	snhqm9_sentence1();
+    jtl378_sentence1();
+    shensSentence1();
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
@@ -29,6 +31,11 @@ int main( void )
     mtrmt9First();	
     jarpqdSentence1();
     yqzn9_one();
+    blkz85First();
+    printf("\n\n");
+    jmpcz9NewSentence1();
+	kfjmbb_sentence2();
+
     printf("\n\n");
     jmpcz9NewSentence1();
     kjf3mdSentence1();
@@ -76,6 +83,21 @@ int main( void )
     mkc42Sentence2();
     scfpt6Sentence2();
     nicksen2();
+    printf("\n\n");
+    med43bSentence();
+    nicksen1();
+    med43bSentence2(); 
+    yqzn9_two();
+    mattDSent1();
+    ob44fSecondSentence();
+    rhhq7Sentence1();
+    rhhq7Sentence2();    
+    blkz85Second();
+
+	// DO NOT ADD AFTER THIS COMMENT
+	// Bens sentence should be last.
+	bensSentence_FINAL();
+	printf("\n\n");
     rrsqp4sentence1();
     printf("\n\n");
     med43bSentence();
