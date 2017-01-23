@@ -2,7 +2,7 @@
 //My 2 sentences to be added
 int nicolasSmithsSentence1()
 {
-	printf("No copyright law in the universe can stop me! - he said. ");
+	printf(" No copyright law in the universe can stop me! - he said. ");
 }
 
 int nicolasSmithsSentence2()
