@@ -28,13 +28,14 @@ int main( void )
     rml3mdFirstSentence();
     nicolasSmithsSentence1();
     acmyfFirst();
-    mtrmt9First();	
+    mtrmt9First();
     jarpqdSentence1();
     yqzn9_one();
     blkz85First();
     printf("\n\n");
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
+	xwq58First();
 
     printf("\n\n");
     jmpcz9NewSentence1();
@@ -88,14 +89,15 @@ int main( void )
     printf("\n\n");
     med43bSentence();
     nicksen1();
-    med43bSentence2(); 
+    med43bSentence2();
     yqzn9_two();
     mattDSent1();
     ob44fSecondSentence();
     rhhq7Sentence1();
-    rhhq7Sentence2();    
+    rhhq7Sentence2();
     blkz85Second();
     twv8f9Sentence1();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
@@ -123,7 +125,10 @@ int main( void )
     annhx3Sentence1();
     annhx3Sentence2();
     rrsqp4sentence2();
+    xwq58Second();
+
     twv8f9Sentence2();
+
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
