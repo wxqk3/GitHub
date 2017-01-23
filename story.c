@@ -80,7 +80,8 @@ int main( void )
     ob44fSecondSentence();
     rhhq7Sentence1();
     rhhq7Sentence2();
-
+zanSentenceOne();
+zanSentenceTwo();
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
