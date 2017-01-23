@@ -28,6 +28,7 @@ int main( void )
     mtrmt9First();	
     jarpqdSentence1();
     yqzn9_one();
+    blkz85First();
     printf("\n\n");
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
@@ -79,8 +80,7 @@ int main( void )
     mattDSent1();
     ob44fSecondSentence();
     rhhq7Sentence1();
-    rhhq7Sentence2();
-    blkz85First();
+    rhhq7Sentence2();    
     blkz85Second();
 
 	// DO NOT ADD AFTER THIS COMMENT
