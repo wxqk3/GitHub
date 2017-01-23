@@ -6,12 +6,12 @@
  */
 #include <stdio.h>
 
-snhqm9_sentence1()
+void snhqm9_sentence1()
 {
 	printf("It all started one rainy evening as he was banging away at his computer");
 }
 
-snhqm9_sentence2()
+void snhqm9_sentence2()
 {
 	printf("You would never guess what happened next. ");
 }
