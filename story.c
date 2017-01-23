@@ -32,6 +32,7 @@ int main( void )
     printf("\n\n");
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
+    ams938sentence1();
     cjm539sent1();
     yzghf();
     jdckw4_sentence1();
@@ -82,6 +83,7 @@ int main( void )
     yqzn9_two();
     mattDSent1();
     dwdb79_sentence2();
+    ams938sentence2();
     ob44fSecondSentence();
     rhhq7Sentence1();
     rhhq7Sentence2();

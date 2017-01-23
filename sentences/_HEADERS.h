@@ -89,4 +89,5 @@ int mmjfz9sentence1();
 int mmjfz9sentence2();
 int annhx3Sentence1();
 int annhx3Sentence2();
-
+void ams938sentence1();
+void ams938sentence2();
