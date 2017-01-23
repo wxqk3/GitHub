@@ -54,4 +54,5 @@ int jah3xc_sentence1();
 int jah3xc_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
-
+int blkz85First()
+int blkz85Second()
