@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
@@ -125,20 +124,17 @@ int main( void )
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
-
 	asbrm5Sentence1();
 	asbrm5Sentence2();
-
     SkySentenceOne();
     SkySentenceTwo();
+	rmmpfbSentence1();
+	rmmpfbSentence2();
+	apsrz4First();
+	apsrz4Second();
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
     printf("\n\n");
 }
-#include <stdio.h>
-#include "sentences/_HEADERS.h"
-
-// I assume all of you know C.
-
