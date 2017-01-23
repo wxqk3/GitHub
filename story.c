@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
@@ -136,3 +137,8 @@ int main( void )
     bensSentence_FINAL();
     printf("\n\n");
 }
+#include <stdio.h>
+#include "sentences/_HEADERS.h"
+
+// I assume all of you know C.
+

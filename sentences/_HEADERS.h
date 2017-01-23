@@ -56,6 +56,7 @@ void mkc42Sentence1();
 void mkc42Sentence2();
 int scfpt6Sentence1();
 int scfpt6Sentence2();
+<<<<<<< HEAD
 void casty8Sentence1();
 void casty8Sentence2();
 void jarpqdSentence1();
@@ -100,10 +101,10 @@ int xwq58First();
 int xwq58Second();
 int twv8f9Sentence1();
 int twv8f9Sentence2();
-
+int apsrz4First();
+int apsrz4Second();
 int asbrm5Sentence1();
 int asbrm5Sentence2();
-
 int SkySentenceOne();
 int SkySentenceTwo();
 
