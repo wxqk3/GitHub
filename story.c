@@ -124,11 +124,11 @@ int main( void )
     basqr4Sentence2();
     annhx3Sentence1();
     annhx3Sentence2();
+    aupkbdsentence1();
     rrsqp4sentence2();
+    aupkbdsentence2();
     xwq58Second();
-
     twv8f9Sentence2();
-
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();

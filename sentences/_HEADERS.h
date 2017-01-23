@@ -94,6 +94,8 @@ void rrsqp4sentence1();
 void rrsqp4sentence2();
 int jpfvx8Sentence1();
 int jpfvx8Sentence2();
+void aupkbdsentence1();
+void aupkbdsentence2();
 int xwq58First();
 int xwq58Second();
 int twv8f9Sentence1();
