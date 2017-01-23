@@ -83,3 +83,6 @@ void basqr4Sentence1();
 void basqr4Sentence2();
 int dwdb79_sentence1();
 int dwdb79_sentence2();
+int mmjfz9sentence1();
+int mmjfz9sentence2();
+
