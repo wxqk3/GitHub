@@ -36,7 +36,7 @@ int main( void )
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
 	xwq58First();
-
+	ddpfc2Sentences1();
     printf("\n\n");
     jmpcz9NewSentence1();
     kjf3mdSentence1();
@@ -67,6 +67,7 @@ int main( void )
     cgj6hb_sentence2();
     pje279Sentence2();
     nicolasSmithsSentence2();
+	ddpfc2Senetence2();
     mdsf3fSentence2();
     jah3xc_sentence2();
     casty8Sentence1();
@@ -98,10 +99,6 @@ int main( void )
     blkz85Second();
     twv8f9Sentence1();
 
-
-	// DO NOT ADD AFTER THIS COMMENT
-	// Bens sentence should be last.
-	bensSentence_FINAL();
 	printf("\n\n");
     rrsqp4sentence1();
     printf("\n\n");
@@ -124,11 +121,16 @@ int main( void )
     basqr4Sentence2();
     annhx3Sentence1();
     annhx3Sentence2();
+    aupkbdsentence1();
     rrsqp4sentence2();
+    aupkbdsentence2();
     xwq58Second();
-
     twv8f9Sentence2();
-
+<<<<<<< HEAD
+=======
+	asbrm5Sentence1();
+	asbrm5Sentence2();
+>>>>>>> asbrm5
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
