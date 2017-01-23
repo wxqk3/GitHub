@@ -4,12 +4,12 @@
 // Function to include & executeA
 int pje279Sentence1()
 {
-  printf("\nSome people didn't think the universe be like it is, but it do.\n");
+  printf("Some people didn't think the universe be like it is, but it do. ");
   return 1;
 }
 
 int pje279Sentence2()
 {
-  printf("\nIn bird culture, this is considered a dick move.\n");
+  printf("In bird culture, this is considered a dick move. ");
   return 1;
 }
