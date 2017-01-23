@@ -96,3 +96,5 @@ int jpfvx8Sentence1();
 int jpfvx8Sentence2();
 int xwq58First();
 int xwq58Second();
+int twv8f9Sentence1();
+int twv8f9Sentence2();
