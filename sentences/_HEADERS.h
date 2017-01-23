@@ -65,7 +65,8 @@ int jtl378_sentence1();
 int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
-
+int trevBSent1();
+int trevBSent2();
 void bcspq4sent1();
 void bcspq4sent2();
 
