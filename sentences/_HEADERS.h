@@ -18,6 +18,8 @@ int mattDSent1();
 int mattDSent2();
 void cjm539sent1();
 void cjm539sent2();
+void colejcsent1();
+void colejcsent2();
 void snhqm9_sentence1();
 void snhqm9_sentence2();
 int pje279Sentence1();
