@@ -77,4 +77,5 @@ int  rhhq7Sentence1();
 int rhhq7Sentence2();
 int argkd61();
 int argkd62();
-
+int zanSentenceOne();
+int zanSentenceTwo();
