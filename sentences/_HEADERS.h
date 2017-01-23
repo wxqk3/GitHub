@@ -81,3 +81,5 @@ int zanSentenceOne();
 int zanSentenceTwo();
 void basqr4Sentence1();
 void basqr4Sentence2();
+int dwdb79_sentence1();
+int dwdb79_sentence2();

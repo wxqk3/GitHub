@@ -16,6 +16,7 @@ int main( void )
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
+    dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
@@ -77,6 +78,7 @@ int main( void )
     med43bSentence2(); 
     yqzn9_two();
     mattDSent1();
+    dwdb79_sentence2();
     ob44fSecondSentence();
     rhhq7Sentence1();
     rhhq7Sentence2();
