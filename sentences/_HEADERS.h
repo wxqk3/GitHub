@@ -6,14 +6,7 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
 
-int cjan8cSentenceOne();
-int cjan8cSentenceTwo();
-int yqzn9_one();
-int yqzn9_two();
-int mtrmt9First();
-int mtrmt9Second();
-int nicksen1();
-int nicksen2();
+
 int mattDSent1();
 int mattDSent2();
 void cjm539sent1();
@@ -68,31 +61,10 @@ int jtl378_sentence1();
 int jtl378_sentence2();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
-int trevBSent1();
-int trevBSent2();
-void bcspq4sent1();
-void bcspq4sent2();
-int kjf3mdSentence1();
-int kjf3mdSentence_FINAL();
-
+int pmhkv9Sentence1();
+int pmhkv9Sentence_FINAL();
 int med43bSentence();
 int med43bSentence2();
-int  rhhq7Sentence1();
+int rhhq7Sentence1();
 int rhhq7Sentence2();
-int argkd61();
-int argkd62();
-int zanSentenceOne();
-int zanSentenceTwo();
-void basqr4Sentence1();
-void basqr4Sentence2();
-int dwdb79_sentence1();
-int dwdb79_sentence2();
-int mmjfz9sentence1();
-int mmjfz9sentence2();
-int annhx3Sentence1();
-int annhx3Sentence2();
-void ams938sentence1();
-void ams938sentence2();
 
-void rrsqp4sentence1();
-void rrsqp4sentence2();
