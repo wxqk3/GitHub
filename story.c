@@ -11,31 +11,49 @@ int main( void )
 
     // Add your sentence.
     // Don't forget to update the header file.
-    // vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
+    // vvvvvvvvvvvvvvvv STUDENT WORK H
+	snhqm9_sentence1();
+    jtl378_sentence1();
+    shensSentence1();
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
+    dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
+	bcspq4sent1();
+	bcspq4sent2();
     pje279Sentence1();
     rml3mdFirstSentence();
     nicolasSmithsSentence1();
     acmyfFirst();
+    mtrmt9First();	
     jarpqdSentence1();
+    yqzn9_one();
+    blkz85First();
     printf("\n\n");
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
+
+    printf("\n\n");
+    jmpcz9NewSentence1();
+    kjf3mdSentence1();
+	kfjmbb_sentence2();
+    ams938sentence1();
     cjm539sent1();
+	colejcsent1();
     yzghf();
     jdckw4_sentence1();
     mattDSent2();
+    cjan8cSentenceTwo();
 	kfjmbb_sentence1();
     printf("\n\n");
     szz63one();
     hagd5dSentence1();
+    cjan8cSentenceOne();
     sskgz8sentence1();
+    mtrmt9Second();
     jah3xc_sentence1();
     klft2();
     mkc42Sentence1();
@@ -56,6 +74,7 @@ int main( void )
     jmpcz9NewSentence2();
     yzghf2();
     cjm539sent2();
+	colejcsent2();
     sskgz8sentence_FINAL();
     szz63two();
     hagd5dSentence2();
@@ -69,14 +88,40 @@ int main( void )
     printf("\n\n");
     med43bSentence();
     nicksen1();
-    med43bSentence2();
-   
-
+    med43bSentence2(); 
+    yqzn9_two();
     mattDSent1();
     ob44fSecondSentence();
-     rhhq7Sentence1();
-     rhhq7Sentence2();
+    rhhq7Sentence1();
+    rhhq7Sentence2();    
+    blkz85Second();
 
+	// DO NOT ADD AFTER THIS COMMENT
+	// Bens sentence should be last.
+	bensSentence_FINAL();
+	printf("\n\n");
+    rrsqp4sentence1();
+    printf("\n\n");
+    med43bSentence();
+    nicksen1();
+    mmjfz9sentence2();
+    med43bSentence2();
+    yqzn9_two();
+    mattDSent1();
+    dwdb79_sentence2();
+    ams938sentence2();
+    kjf3mdSentence_FINAL();
+    ob44fSecondSentence();
+    rhhq7Sentence1();
+    rhhq7Sentence2();
+    mmjfz9sentence1();
+    zanSentenceOne();
+    basqr4Sentence1();
+    zanSentenceTwo();
+    basqr4Sentence2();
+    annhx3Sentence1();
+    annhx3Sentence2();
+    rrsqp4sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();

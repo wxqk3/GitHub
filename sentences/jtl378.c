@@ -7,4 +7,5 @@ int jtl378_sentence1() {
 
 int jtl378_sentence2() {
     printf(" However, after awhile he got bored.");
+    return 1;
 }
