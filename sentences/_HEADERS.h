@@ -85,4 +85,6 @@ int dwdb79_sentence1();
 int dwdb79_sentence2();
 int mmjfz9sentence1();
 int mmjfz9sentence2();
+int annhx3Sentence1();
+int annhx3Sentence2();
 

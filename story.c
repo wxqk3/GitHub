@@ -88,7 +88,8 @@ int main( void )
     basqr4Sentence1();
     zanSentenceTwo();
     basqr4Sentence2();
-
+    annhx3Sentence1();
+    annhx3Sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
