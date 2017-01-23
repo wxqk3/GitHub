@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include "sentences/_HEADERS.h"
 
@@ -131,22 +130,6 @@ int main( void )
     // Bens sentence should be last.
     bensSentence_FINAL();
     printf("\n\n");
-}
-=======
-#include <stdio.h>
-#include "sentences/_HEADERS.h"
-
-// I assume all of you know C.
-
-int main( void )
-{
-	printf("\n");
-	bensSentence1();
-	printf("\n\n");
-
-	// Add your sentence.
-	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 
 	snhqm9_sentence1();
 	shensSentence1();
@@ -184,7 +167,9 @@ int main( void )
 	casty8Sentence2();
 	mkc42Sentence2();
 	scfpt6Sentence2();
+	adwcn6Sentence1();
 	apsrz4First();
+	adwcn6Sentence2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT
@@ -192,4 +177,3 @@ int main( void )
 	bensSentence_FINAL();
 	printf("\n\n");
 }
->>>>>>> apsrz4
