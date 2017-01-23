@@ -129,6 +129,8 @@ int main( void )
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
+    SkySentenceOne();
+    SkySentenceTwo();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
