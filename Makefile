@@ -23,7 +23,9 @@ CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
-TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_story.txt
+TEST= (./story > the_story.txt) ; cat the_story.txt
+# -----------------------------------------------DERS.h
+TEST= (./story > the_story.txt); cat the_story.txt
 
 # -----------------------------------------------
 # The standard default target is 'all'
@@ -33,7 +35,7 @@ TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_st
 
 all: story
 
-test: story
+test: 
 	@$(TEST)
 
 # -----------------------------------------------
@@ -53,13 +55,20 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
+
+
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o mtrmt9.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o yqzn9.o blkz85.o
-=======
+
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o bcspq4.o yqzn9.o blkz85.o
->>>>>>> refs/remotes/origin/bcspq4
+
 
 story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o rhhq7.o kfjmbb.o med43b.o ndtptb.o yqzn9.o blkz85.o
+
+
+
+
+
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o mtrmt9.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o yqzn9.o zj5ff.o bcspq4.o ndtptb.o med43b.o rhhq7.o kfjmbb.o basqr4.o dwdb79.o mmjfz9.o annhx3.o cjan8c.o ams938.o kjf3md.o rrsqp4.o
 
 
 	$(CC) -o story $^

@@ -5,17 +5,20 @@
 
 int main( void )
 {
-	printf("\n");
-	bensSentence1();
-	printf("\n\n");
+    printf("\n");
+    bensSentence1();
+    printf("\n\n");
 
-	// Add your sentence.
-	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
+    // Add your sentence.
+    // Don't forget to update the header file.
+    // vvvvvvvvvvvvvvvv STUDENT WORK H
 	snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
+    snhqm9_sentence1();
+    jtl378_sentence1();
+    shensSentence1();
+    dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
@@ -32,14 +35,22 @@ int main( void )
     printf("\n\n");
     jmpcz9NewSentence1();
 	kfjmbb_sentence2();
+
+    printf("\n\n");
+    jmpcz9NewSentence1();
+    kjf3mdSentence1();
+	kfjmbb_sentence2();
+    ams938sentence1();
     cjm539sent1();
     yzghf();
     jdckw4_sentence1();
     mattDSent2();
+    cjan8cSentenceTwo();
 	kfjmbb_sentence1();
     printf("\n\n");
     szz63one();
     hagd5dSentence1();
+    cjan8cSentenceOne();
     sskgz8sentence1();
     mtrmt9Second();
     jah3xc_sentence1();
@@ -87,5 +98,30 @@ int main( void )
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
+    rrsqp4sentence1();
+    printf("\n\n");
+    med43bSentence();
+    nicksen1();
+    mmjfz9sentence2();
+    med43bSentence2();
+    yqzn9_two();
+    mattDSent1();
+    dwdb79_sentence2();
+    ams938sentence2();
+    kjf3mdSentence_FINAL();
+    ob44fSecondSentence();
+    rhhq7Sentence1();
+    rhhq7Sentence2();
+    mmjfz9sentence1();
+    zanSentenceOne();
+    basqr4Sentence1();
+    zanSentenceTwo();
+    basqr4Sentence2();
+    annhx3Sentence1();
+    annhx3Sentence2();
+    rrsqp4sentence2();
+    // DO NOT ADD AFTER THIS COMMENT
+    // Bens sentence should be last.
+    bensSentence_FINAL();
+    printf("\n\n");
 }
-
