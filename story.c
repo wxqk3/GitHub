@@ -36,10 +36,12 @@ int main( void )
     yzghf();
     jdckw4_sentence1();
     mattDSent2();
+    cjan8cSentenceTwo();
 	kfjmbb_sentence1();
     printf("\n\n");
     szz63one();
     hagd5dSentence1();
+    cjan8cSentenceOne();
     sskgz8sentence1();
     mtrmt9Second();
     jah3xc_sentence1();
