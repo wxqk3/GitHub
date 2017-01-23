@@ -80,6 +80,8 @@ int main( void )
     ob44fSecondSentence();
     rhhq7Sentence1();
     rhhq7Sentence2();
+    mmjfz9sentence1();
+    mmjfz9sentence2();
 
 
     // DO NOT ADD AFTER THIS COMMENT

@@ -77,4 +77,6 @@ int  rhhq7Sentence1();
 int rhhq7Sentence2();
 int argkd61();
 int argkd62();
+int mmjfz9sentence1();
+int mmjfz9sentence2();
 
