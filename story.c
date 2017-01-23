@@ -95,6 +95,8 @@ int main( void )
     rhhq7Sentence1();
     rhhq7Sentence2();    
     blkz85Second();
+    twv8f9Sentence1();
+    twv8f9Sentence2(); 
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
