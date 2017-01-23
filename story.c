@@ -96,7 +96,6 @@ int main( void )
     rhhq7Sentence2();    
     blkz85Second();
     twv8f9Sentence1();
-    twv8f9Sentence2(); 
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
@@ -124,6 +123,7 @@ int main( void )
     annhx3Sentence1();
     annhx3Sentence2();
     rrsqp4sentence2();
+    twv8f9Sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
