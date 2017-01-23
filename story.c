@@ -65,9 +65,12 @@ int main( void )
     casty8Sentence2();
     mkc42Sentence2();
     scfpt6Sentence2();
+    nicksen2();
     printf("\n\n");
     med43bSentence();
+    nicksen1();
     med43bSentence2();
+   
 
     mattDSent1();
     ob44fSecondSentence();
