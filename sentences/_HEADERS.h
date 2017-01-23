@@ -92,3 +92,5 @@ int rhhq7Sentence1();
 int rhhq7Sentence2();
 void rrsqp4sentence1();
 void rrsqp4sentence2();
+int jpfvx8Sentence1();
+int jpfvx8Sentence2();
