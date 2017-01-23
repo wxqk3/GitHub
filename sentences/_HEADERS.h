@@ -93,3 +93,6 @@ int annhx3Sentence1();
 int annhx3Sentence2();
 void ams938sentence1();
 void ams938sentence2();
+
+void rrsqp4sentence1();
+void rrsqp4sentence2();

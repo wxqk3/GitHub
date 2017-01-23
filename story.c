@@ -76,6 +76,7 @@ int main( void )
     mkc42Sentence2();
     scfpt6Sentence2();
     nicksen2();
+    rrsqp4sentence1();
     printf("\n\n");
     med43bSentence();
     nicksen1();
@@ -96,6 +97,7 @@ int main( void )
     basqr4Sentence2();
     annhx3Sentence1();
     annhx3Sentence2();
+    rrsqp4sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
