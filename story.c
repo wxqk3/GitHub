@@ -31,6 +31,7 @@ int main( void )
     yqzn9_one();
     printf("\n\n");
     jmpcz9NewSentence1();
+    kjf3mdSentence1();
 	kfjmbb_sentence2();
     ams938sentence1();
     cjm539sent1();
@@ -84,6 +85,7 @@ int main( void )
     mattDSent1();
     dwdb79_sentence2();
     ams938sentence2();
+    kjf3mdSentence_FINAL();
     ob44fSecondSentence();
     rhhq7Sentence1();
     rhhq7Sentence2();
