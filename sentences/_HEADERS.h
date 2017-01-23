@@ -79,3 +79,5 @@ int argkd61();
 int argkd62();
 int zanSentenceOne();
 int zanSentenceTwo();
+void basqr4Sentence1();
+void basqr4Sentence2();
