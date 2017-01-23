@@ -74,6 +74,7 @@ int main( void )
     printf("\n\n");
     med43bSentence();
     nicksen1();
+    mmjfz9sentence2();
     med43bSentence2(); 
     yqzn9_two();
     mattDSent1();
@@ -81,7 +82,7 @@ int main( void )
     rhhq7Sentence1();
     rhhq7Sentence2();
     mmjfz9sentence1();
-    mmjfz9sentence2();
+
 
 
     // DO NOT ADD AFTER THIS COMMENT

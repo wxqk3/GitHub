@@ -8,6 +8,6 @@ int mmjfz9sentence1()
 
 int mmjfz9sentence2()
 {
-    printf("In what direction will it go next?");
+    printf("Dogs are very cute.");
     return 1;
 }
