@@ -98,10 +98,6 @@ int main( void )
     blkz85Second();
     twv8f9Sentence1();
 
-
-	// DO NOT ADD AFTER THIS COMMENT
-	// Bens sentence should be last.
-	bensSentence_FINAL();
 	printf("\n\n");
     rrsqp4sentence1();
     printf("\n\n");
@@ -128,7 +124,8 @@ int main( void )
     xwq58Second();
 
     twv8f9Sentence2();
-
+	asbrm5Sentence1();
+	asbrm5Sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
