@@ -42,6 +42,7 @@ int main( void )
 	kfjmbb_sentence2();
     ams938sentence1();
     cjm539sent1();
+	colejcsent1();
     yzghf();
     jdckw4_sentence1();
     mattDSent2();
@@ -73,6 +74,7 @@ int main( void )
     jmpcz9NewSentence2();
     yzghf2();
     cjm539sent2();
+	colejcsent2();
     sskgz8sentence_FINAL();
     szz63two();
     hagd5dSentence2();
