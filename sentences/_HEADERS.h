@@ -37,3 +37,5 @@ void mkc42Sentence1();
 void mkc42Sentence2();
 int scfpt6Sentence1();
 int scfpt6Sentence2();
+int apsrz4First();
+int apsrz4Second();
