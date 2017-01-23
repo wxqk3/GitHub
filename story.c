@@ -126,6 +126,10 @@ int main( void )
     twv8f9Sentence2();
 	asbrm5Sentence1();
 	asbrm5Sentence2();
+	rmmpfbSentence1();
+	rmmpfbSentence2();
+	apsrz4First();
+	apsrz4Second();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();

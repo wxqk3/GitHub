@@ -118,3 +118,5 @@ void dwdb79_sentence2();
 void ams938sentence2();
 void mmjfz9sentence1();
 void zanSentenceOne();
+int rmmpfbSentence1();
+int rmmpfbSentence2();
