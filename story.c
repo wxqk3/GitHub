@@ -148,6 +148,9 @@ int main( void )
     bdfhdcFirstSentence();
     bdfhdcSecondSentence();
 
+	cjrz74Sentence1();
+ cjrz74Sentence2();
+	
     xlwbcSentence1();
     xlwbcSentence_FINAL();
     // DO NOT ADD AFTER THIS COMMENT
