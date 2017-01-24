@@ -18,7 +18,7 @@ int main( void )
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
-    ampvy7Sentence1()'
+    ampvy7Sentence1();
     dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
