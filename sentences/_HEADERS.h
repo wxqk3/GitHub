@@ -102,3 +102,43 @@ int ajpt33First();
 int ajpt33Second();
 
 
+
+void aupkbdsentence1();
+void aupkbdsentence2();
+int xwq58First();
+int xwq58Second();
+int twv8f9Sentence1();
+int twv8f9Sentence2();
+int apsrz4First();
+int apsrz4Second();
+int asbrm5Sentence1();
+int asbrm5Sentence2();
+int SkySentenceOne();
+int SkySentenceTwo();
+void adwcn6Sentence1();
+void adwcn6Sentence2();
+void annhx3Sentence2();
+void annhx3Sentence1();
+void basqr4Sentence2();
+void zanSentenceTwo();
+void basqr4Sentence1();
+void dwdb79_sentence1();
+void ams938sentence1();
+void mmjfz9sentence2();
+void dwdb79_sentence2();
+void ams938sentence2();
+void mmjfz9sentence1();
+void zanSentenceOne();
+int rmmpfbSentence1();
+int rmmpfbSentence2();
+int ajt3m8_sentence1();
+int ajt3m8_sentence2();
+int trdxd4Sentence1();
+int trdxd4Sentence2();
+void pmfn9csentence1();
+void pmfn9csentence2();
+int wcmgg3Sentence1();
+int wcmgg3Sentence2();
+int xlwbcSentence1();
+int xlwbcSentence_FINAL();
+
