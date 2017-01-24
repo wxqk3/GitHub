@@ -101,8 +101,6 @@ int jpfvx8Sentence2();
 int ajpt33First();
 int ajpt33Second();
 
-
-
 void aupkbdsentence1();
 void aupkbdsentence2();
 int xwq58First();
@@ -139,8 +137,9 @@ void pmfn9csentence1();
 void pmfn9csentence2();
 int wcmgg3Sentence1();
 int wcmgg3Sentence2();
+int bmevy3Sentence1();
+int bmevy3Sentence2();
 int xlwbcSentence1();
 int xlwbcSentence_FINAL();
 int agom94Sentence1();
 int agom94Sentence2();
-
