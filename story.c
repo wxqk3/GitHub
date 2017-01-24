@@ -136,12 +136,10 @@ int main( void )
 	apsrz4First();
 	apsrz4Second();
     ajt3m8_sentence2();
-
-    // DO NOT ADD AFTER THIS COMMENT
-    // Bens sentence should be last.
-    bensSentence_FINAL();
-    printf("\n\n");
-
+    wcmgg3Sentence1();
+    
+    //deleted extra end block
+    
 	snhqm9_sentence1();
 	shensSentence1();
 	cgj6hb_sentence1();
@@ -150,6 +148,7 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
+    wcmgg3Sentence2();
 	jmpcz9NewSentence1();
 	yzghf();
 	printf("\n\n");

@@ -132,3 +132,5 @@ int trdxd4Sentence1();
 int trdxd4Sentence2();
 void pmfn9csentence1();
 void pmfn9csentence2();
+int wcmgg3Sentence1();
+int wcmgg3Sentence2();
