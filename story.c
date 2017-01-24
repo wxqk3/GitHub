@@ -18,14 +18,17 @@ int main( void )
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
+    ampvy7Sentence1();
     dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
 	bcspq4sent1();
 	bcspq4sent2();
+	ampvy7Sentence2();
     pje279Sentence1();
     rml3mdFirstSentence();
+    ajpt33First();
     nicolasSmithsSentence1();
     acmyfFirst();
     mtrmt9First();
@@ -45,7 +48,8 @@ int main( void )
     cjm539sent1();
 	crm4g3Second();
 	colejcsent1();
-    yzghf();
+	trevBSent1();
+	yzghf();
     jdckw4_sentence1();
     mattDSent2();
     cjan8cSentenceTwo();
@@ -73,7 +77,9 @@ int main( void )
     casty8Sentence1();
     shensSentence_FINAL();
     acmyfSecond();
+	kac2z7Sentence2();
     jmpcz9NewSentence2();
+    ajpt33Second();
     yzghf2();
     cjm539sent2();
 	colejcsent2();
@@ -99,8 +105,10 @@ int main( void )
     rhhq7Sentence2();
     blkz85Second();
     twv8f9Sentence1();
+    agom94Sentence1();
 
 	printf("\n\n");
+    agom94Sentence2();
     rrsqp4sentence1();
     printf("\n\n");
     med43bSentence();
@@ -117,6 +125,7 @@ int main( void )
     rhhq7Sentence2();
     mmjfz9sentence1();
     zanSentenceOne();
+    trevBSent2();
     basqr4Sentence1();
     zanSentenceTwo();
     basqr4Sentence2();
@@ -136,68 +145,11 @@ int main( void )
 	apsrz4First();
 	apsrz4Second();
     ajt3m8_sentence2();
-    wcmgg3Sentence1();
-    
-    //deleted extra end block
+    bdfhdcFirstSentence();
+    bdfhdcSecondSentence();
 
     xlwbcSentence1();
     xlwbcSentence_FINAL();
-	snhqm9_sentence1();
-	shensSentence1();
-	cgj6hb_sentence1();
-	mdsf3fSentence1();
-	pje279Sentence1();
-	rml3mdFirstSentence();
-	nicolasSmithsSentence1();
-	acmyfFirst();
-    wcmgg3Sentence2();
-	jmpcz9NewSentence1();
-	yzghf();
-	printf("\n\n");
-	szz63one();
-	hagd5dSentence1();
-	sskgz8sentence1();
-	klft2();
-	mkc42Sentence1();
-	scfpt6Sentence1();
-	printf("\n\n");
-	snhqm9_sentence2();
-	rml3mdSecondSentence();
-	cgj6hb_sentence2();
-	pje279Sentence2();
-	nicolasSmithsSentence2();
-	mdsf3fSentence2();
-	casty8Sentence1();
-	shensSentence_FINAL();
-	acmyfSecond();
-	jmpcz9NewSentence2();
-	yzghf2();
-	sskgz8sentence_FINAL();
-	szz63two();
-
-    hagd5dSentence2();
-    klft2_1();
-
-	//wxqk3Sentnece1(); There is no pawprint.c in sentences for this student. 
-	//wxqk3Sentence2();	
-
-	hagd5dSentence2();
-	klft2_1();
-	casty8Sentence2();
-	mkc42Sentence2();
-	scfpt6Sentence2();
-	adwcn6Sentence1();
-	apsrz4First();
-	trdxd4Sentence1();
-	adwcn6Sentence2();
-	trdxd4Sentence2();
-	pmfn9csentence1();
-	pmfn9csentence2();
-
-
-
-	// DO NOT ADD AFTER THIS COMMENT
-	// Bens sentence should be last.
-	bensSentence_FINAL();
-	printf("\n\n");
+    // DO NOT ADD AFTER THIS COMMENT
+    // Bens sentence should be last.
 }

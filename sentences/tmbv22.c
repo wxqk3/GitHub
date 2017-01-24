@@ -9,6 +9,6 @@ int trevBSent1()
 
 int trevBSent2()
 {
-  printf("He pondered that for a second then added, 'But let's talk about our lord and savior Donald J Trump, king of grabbing p-'");
+  printf("You're in a coma, wake up!");
   return 1;
 }
