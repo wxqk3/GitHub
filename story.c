@@ -128,6 +128,8 @@ int main( void )
     xwq58Second();
 
     twv8f9Sentence2();
+    bdfhdcFirstSentence();
+    bdfhdcSecondSentence();
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
