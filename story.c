@@ -169,6 +169,13 @@ int main( void )
 	yzghf2();
 	sskgz8sentence_FINAL();
 	szz63two();
+
+    hagd5dSentence2();
+    klft2_1();
+
+wxqk3Sentence1();
+wxqk3Sentence2();	
+
 	hagd5dSentence2();
 	klft2_1();
 	casty8Sentence2();
@@ -177,6 +184,7 @@ int main( void )
 	adwcn6Sentence1();
 	apsrz4First();
 	adwcn6Sentence2();
+
 
 
 	// DO NOT ADD AFTER THIS COMMENT
