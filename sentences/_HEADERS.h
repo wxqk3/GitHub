@@ -122,4 +122,6 @@ void mmjfz9sentence1();
 void zanSentenceOne();
 int rmmpfbSentence1();
 int rmmpfbSentence2();
+int ajt3m8_sentence1();
+int ajt3m8_sentence2();
 

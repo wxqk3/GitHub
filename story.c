@@ -82,6 +82,7 @@ int main( void )
     klft2_1();
     jg229Sentence2();
     casty8Sentence2();
+    ajt3m8_sentence1();
     mkc42Sentence2();
     scfpt6Sentence2();
     nicksen2();
@@ -132,6 +133,7 @@ int main( void )
 	rmmpfbSentence2();
 	apsrz4First();
 	apsrz4Second();
+    ajt3m8_sentence2();
 
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
