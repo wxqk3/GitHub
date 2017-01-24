@@ -46,7 +46,8 @@ int main( void )
     cjm539sent1();
 	crm4g3Second();
 	colejcsent1();
-    yzghf();
+	trevBSent1();
+	yzghf();
     jdckw4_sentence1();
     mattDSent2();
     cjan8cSentenceTwo();
@@ -122,6 +123,7 @@ int main( void )
     rhhq7Sentence2();
     mmjfz9sentence1();
     zanSentenceOne();
+    trevBSent2();
     basqr4Sentence1();
     zanSentenceTwo();
     basqr4Sentence2();
