@@ -124,6 +124,7 @@ int main( void )
     annhx3Sentence2();
     aupkbdsentence1();
     rrsqp4sentence2();
+<<<<<<< HEAD
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
@@ -137,6 +138,10 @@ int main( void )
 	apsrz4Second();
     ajt3m8_sentence2();
 
+=======
+    xlwbcSentence1();
+    xlwbcSentence_FINAL();
+>>>>>>> xlwbc
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
