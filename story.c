@@ -149,8 +149,8 @@ int main( void )
     ajt3m8_sentence2();
     //bdfhdcFirstSentence();
     //bdfhdcSecondSentence();
-        wxqk3Sentence1();
-        wxqk3Sentence2();
+        // wxqk3Sentence1();
+        // wxqk3Sentence2();
     xlwbcSentence1();
     xlwbcSentence_FINAL();
     // DO NOT ADD AFTER THIS COMMENT
