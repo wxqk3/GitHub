@@ -177,8 +177,8 @@ int main( void )
     hagd5dSentence2();
     klft2_1();
 
-wxqk3Sentence1();
-wxqk3Sentence2();	
+	//wxqk3Sentnece1(); There is no pawprint.c in sentences for this student. 
+	//wxqk3Sentence2();	
 
 	hagd5dSentence2();
 	klft2_1();
@@ -188,6 +188,8 @@ wxqk3Sentence2();
 	adwcn6Sentence1();
 	apsrz4First();
 	adwcn6Sentence2();
+	pmfn9csentence1();
+	pmfn9csentence2();
 
 
 
