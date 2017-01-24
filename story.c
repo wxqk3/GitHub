@@ -30,6 +30,7 @@ int main( void )
     nicolasSmithsSentence1();
     acmyfFirst();
     mtrmt9First();
+    crm4g3First();
     jarpqdSentence1();
     yqzn9_one();
     blkz85First();
@@ -43,6 +44,7 @@ int main( void )
 	kfjmbb_sentence2();
     ams938sentence1();
     cjm539sent1();
+	crm4g3Second();
 	colejcsent1();
     yzghf();
     jdckw4_sentence1();
@@ -84,6 +86,7 @@ int main( void )
     klft2_1();
     jg229Sentence2();
     casty8Sentence2();
+    ajt3m8_sentence1();
     mkc42Sentence2();
     scfpt6Sentence2();
     nicksen2();
@@ -128,8 +131,18 @@ int main( void )
     twv8f9Sentence2();
 	asbrm5Sentence1();
 	asbrm5Sentence2();
+    SkySentenceOne();
+    SkySentenceTwo();
+	rmmpfbSentence1();
+	rmmpfbSentence2();
+	apsrz4First();
+	apsrz4Second();
+    ajt3m8_sentence2();
+
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
     printf("\n\n");
+
+	
 }
