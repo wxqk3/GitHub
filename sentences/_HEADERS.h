@@ -126,4 +126,6 @@ int rmmpfbSentence1();
 int rmmpfbSentence2();
 int ajt3m8_sentence1();
 int ajt3m8_sentence2();
+int trdxd4Sentence1();
+int trdxd4Sentence2();
 

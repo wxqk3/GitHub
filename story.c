@@ -187,7 +187,9 @@ wxqk3Sentence2();
 	scfpt6Sentence2();
 	adwcn6Sentence1();
 	apsrz4First();
+	trdxd4Sentence1();
 	adwcn6Sentence2();
+	trdxd4Sentence2();
 
 
 
