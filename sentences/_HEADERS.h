@@ -134,3 +134,5 @@ void pmfn9csentence1();
 void pmfn9csentence2();
 int wcmgg3Sentence1();
 int wcmgg3Sentence2();
+int xlwbcSentence1();
+int xlwbcSentence_FINAL();

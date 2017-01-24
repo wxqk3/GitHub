@@ -139,7 +139,9 @@ int main( void )
     wcmgg3Sentence1();
     
     //deleted extra end block
-    
+
+    xlwbcSentence1();
+    xlwbcSentence_FINAL();
 	snhqm9_sentence1();
 	shensSentence1();
 	cgj6hb_sentence1();
