@@ -150,3 +150,5 @@ int agom94Sentence1();
 int agom94Sentence2();
 void bdfhdcFirstSentence();
 void bdfhdcSecondSentence();
+void ncsgg7_sentence1();
+void ncsgg7_sentence2();
