@@ -101,8 +101,10 @@ int main( void )
     rhhq7Sentence2();
     blkz85Second();
     twv8f9Sentence1();
+    agom94Sentence1();
 
 	printf("\n\n");
+    agom94Sentence2();
     rrsqp4sentence1();
     printf("\n\n");
     med43bSentence();
@@ -143,4 +145,4 @@ int main( void )
     xlwbcSentence_FINAL();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
-    
+}
