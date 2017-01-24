@@ -109,6 +109,8 @@ int main( void )
     agom94Sentence1();
 
 	printf("\n\n");
+    tljwvfSentence1();
+    tljwvfSentence2();
     agom94Sentence2();
     rrsqp4sentence1();
     printf("\n\n");
