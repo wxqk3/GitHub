@@ -26,6 +26,7 @@ int main( void )
 	bcspq4sent2();
     pje279Sentence1();
     rml3mdFirstSentence();
+    ajpt33First();
     nicolasSmithsSentence1();
     acmyfFirst();
     mtrmt9First();
@@ -74,6 +75,7 @@ int main( void )
     shensSentence_FINAL();
     acmyfSecond();
     jmpcz9NewSentence2();
+    ajpt33Second();
     yzghf2();
     cjm539sent2();
 	colejcsent2();
@@ -124,7 +126,6 @@ int main( void )
     annhx3Sentence2();
     aupkbdsentence1();
     rrsqp4sentence2();
-<<<<<<< HEAD
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
@@ -138,70 +139,8 @@ int main( void )
 	apsrz4Second();
     ajt3m8_sentence2();
 
-=======
     xlwbcSentence1();
     xlwbcSentence_FINAL();
->>>>>>> xlwbc
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
-    bensSentence_FINAL();
-    printf("\n\n");
-
-	snhqm9_sentence1();
-	shensSentence1();
-	cgj6hb_sentence1();
-	mdsf3fSentence1();
-	pje279Sentence1();
-	rml3mdFirstSentence();
-	nicolasSmithsSentence1();
-	acmyfFirst();
-	jmpcz9NewSentence1();
-	yzghf();
-	printf("\n\n");
-	szz63one();
-	hagd5dSentence1();
-	sskgz8sentence1();
-	klft2();
-	mkc42Sentence1();
-	scfpt6Sentence1();
-	printf("\n\n");
-	snhqm9_sentence2();
-	rml3mdSecondSentence();
-	cgj6hb_sentence2();
-	pje279Sentence2();
-	nicolasSmithsSentence2();
-	mdsf3fSentence2();
-	casty8Sentence1();
-	shensSentence_FINAL();
-	acmyfSecond();
-	jmpcz9NewSentence2();
-	yzghf2();
-	sskgz8sentence_FINAL();
-	szz63two();
-
-    hagd5dSentence2();
-    klft2_1();
-
-	//wxqk3Sentnece1(); There is no pawprint.c in sentences for this student. 
-	//wxqk3Sentence2();	
-
-	hagd5dSentence2();
-	klft2_1();
-	casty8Sentence2();
-	mkc42Sentence2();
-	scfpt6Sentence2();
-	adwcn6Sentence1();
-	apsrz4First();
-	trdxd4Sentence1();
-	adwcn6Sentence2();
-	trdxd4Sentence2();
-	pmfn9csentence1();
-	pmfn9csentence2();
-
-
-
-	// DO NOT ADD AFTER THIS COMMENT
-	// Bens sentence should be last.
-	bensSentence_FINAL();
-	printf("\n\n");
-}
+    
