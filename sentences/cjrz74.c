@@ -4,7 +4,7 @@
 // Function to include & execute
 int cjrz74Sentence1()
 {
-  printf(" Just at that moment it just accurred to Beethoven that it was 10 PM. The party had already started. ");
+  printf(" Just at that moment it just occurred to Beethoven that it was 10 PM. The party had already started. ");
   return 1;
 }
 
