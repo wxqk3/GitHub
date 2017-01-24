@@ -154,3 +154,7 @@ void bdfhdcFirstSentence();
 void bdfhdcSecondSentence();
 void ncsgg7_sentence1();
 void ncsgg7_sentence2();
+void tljwvfSentence1();
+void tljwvfSentence2();
+void mttg331();
+void mttg332();
