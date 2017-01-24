@@ -146,6 +146,8 @@ int main( void )
 
     xlwbcSentence1();
     xlwbcSentence_FINAL();
+    ysfx7Sentence1();
+    ysfx7Sentence_FINAL();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
 }
