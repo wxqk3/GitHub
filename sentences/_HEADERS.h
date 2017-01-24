@@ -6,6 +6,8 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
 
+int kac2z7Sentence1();
+int kac2zySentence2();
 int cjan8cSentenceOne();
 int cjan8cSentenceTwo();
 int yqzn9_one();
@@ -89,6 +91,8 @@ int blkz85Second();
 int kjf3mdSentence1();
 int kjf3mdSentence_FINAL();
 int med43bSentence();
+void wxqk35Sentence1();
+void wxqk35Sentence2();
 int med43bSentence2();
 int rhhq7Sentence1();
 int rhhq7Sentence2();
@@ -96,6 +100,8 @@ void rrsqp4sentence1();
 void rrsqp4sentence2();
 int jpfvx8Sentence1();
 int jpfvx8Sentence2();
+int ajpt33First();
+int ajpt33Second();
 void aupkbdsentence1();
 void aupkbdsentence2();
 int xwq58First();
@@ -106,10 +112,8 @@ int apsrz4First();
 int apsrz4Second();
 int asbrm5Sentence1();
 int asbrm5Sentence2();
-<<<<<<< HEAD
 int ampvy7Sentence1();
 int ampvy7Sentence2();
-=======
 int SkySentenceOne();
 int SkySentenceTwo();
 void adwcn6Sentence1();
@@ -130,5 +134,18 @@ int rmmpfbSentence1();
 int rmmpfbSentence2();
 int ajt3m8_sentence1();
 int ajt3m8_sentence2();
->>>>>>> 73c941404d28fdeedf1b853b8c67f0e03873bc63
 
+int trdxd4Sentence1();
+int trdxd4Sentence2();
+void pmfn9csentence1();
+void pmfn9csentence2();
+int wcmgg3Sentence1();
+int wcmgg3Sentence2();
+int bmevy3Sentence1();
+int bmevy3Sentence2();
+int xlwbcSentence1();
+int xlwbcSentence_FINAL();
+int agom94Sentence1();
+int agom94Sentence2();
+void bdfhdcFirstSentence();
+void bdfhdcSecondSentence();
