@@ -122,6 +122,8 @@ int main( void )
     annhx3Sentence1();
     annhx3Sentence2();
     rrsqp4sentence2();
+    xlwbcSentence1();
+    xlwbcSentence_FINAL()
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
