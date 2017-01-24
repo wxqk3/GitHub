@@ -76,6 +76,7 @@ int main( void )
     casty8Sentence1();
     shensSentence_FINAL();
     acmyfSecond();
+	kac2z7Sentence2();
     jmpcz9NewSentence2();
     ajpt33Second();
     yzghf2();
