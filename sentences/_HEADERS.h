@@ -145,3 +145,5 @@ int xlwbcSentence1();
 int xlwbcSentence_FINAL();
 int agom94Sentence1();
 int agom94Sentence2();
+void bdfhdcFirstSentence();
+void bdfhdcSecondSentence();

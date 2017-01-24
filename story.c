@@ -141,6 +141,8 @@ int main( void )
 	apsrz4First();
 	apsrz4Second();
     ajt3m8_sentence2();
+    bdfhdcFirstSentence();
+    bdfhdcSecondSentence();
 
     xlwbcSentence1();
     xlwbcSentence_FINAL();
