@@ -131,8 +131,8 @@ int main( void )
     basqr4Sentence2();
     annhx3Sentence1();
     annhx3Sentence2();
-	japv3b_sentence1();
-	japv3b_sentence2();
+	//japv3b_sentence1();
+	//japv3b_sentence2();
     aupkbdsentence1();
     rrsqp4sentence2();
     aupkbdsentence2();
