@@ -72,6 +72,8 @@ int jah3xc_sentence1();
 int jah3xc_sentence2();
 int jtl378_sentence1();
 int jtl378_sentence2();
+int cdw8b9First();
+int cdw8b9Second();
 int ob44fFirstSentence();
 int ob44fSecondSentence();
 int pmhkv9Sentence1();
