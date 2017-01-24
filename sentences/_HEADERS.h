@@ -89,6 +89,8 @@ int blkz85Second();
 int kjf3mdSentence1();
 int kjf3mdSentence_FINAL();
 int med43bSentence();
+void wxqk35Sentence1();
+void wxqk35Sentence2();
 int med43bSentence2();
 int rhhq7Sentence1();
 int rhhq7Sentence2();
@@ -126,4 +128,5 @@ int rmmpfbSentence1();
 int rmmpfbSentence2();
 int ajt3m8_sentence1();
 int ajt3m8_sentence2();
-
+void pmfn9csentence1();
+void pmfn9csentence2();
