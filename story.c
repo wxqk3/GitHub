@@ -20,6 +20,7 @@ int main( void )
     jtl378_sentence1();
     shensSentence1();
     ampvy7Sentence1();
+    lch3m4Sentence1();
     //ampvy7Sentence1();
     dwdb79_sentence1();
     jtl378_sentence2();
@@ -79,7 +80,6 @@ int main( void )
     casty8Sentence1();
     shensSentence_FINAL();
     acmyfSecond();
-	kac2z7Sentence2();
     jmpcz9NewSentence2();
     ajpt33Second();
     yzghf2();
@@ -138,6 +138,7 @@ int main( void )
     aupkbdsentence2();
     xwq58Second();
     twv8f9Sentence2();
+    lch3m4Sentence2();
 	asbrm5Sentence1();
 	asbrm5Sentence2();
     SkySentenceOne();

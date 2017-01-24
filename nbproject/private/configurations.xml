@@ -1,31 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<configurationDescriptor version="100">
+<configurationDescriptor version="97">
   <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
     <df root="." name="0">
       <df name="sentences">
         <in>_HEADERS.h</in>
         <in>acmyf.c</in>
+        <in>adwcn6.c</in>
+        <in>agom94.c</in>
+        <in>ajpt33.c</in>
+        <in>ajt3m8.c</in>
+        <in>ampvy7.c</in>
+        <in>ams938.c</in>
+        <in>annhx3.c</in>
+        <in>apsrz4.c</in>
+        <in>asbrm5.c</in>
+        <in>aupkbd.c</in>
+        <in>basqr4.c</in>
+        <in>bcspq4.c</in>
+        <in>bdfhdc.c</in>
+        <in>blkz85.c</in>
+        <in>bmevy3.c</in>
         <in>bpbkt7.c</in>
         <in>casty8.c</in>
+        <in>cdw8b9.c</in>
         <in>cgj6hb.c</in>
+        <in>cjan8c.c</in>
+        <in>cjm539.c</in>
+        <in>cjrz74.c</in>
+        <in>colejc.c</in>
+        <in>crm4g3.c</in>
+        <in>ddpfc2.c</in>
+        <in>dwdb79.c</in>
         <in>hagd5d.c</in>
+        <in>jah3xc.c</in>
         <in>jarpqd.c</in>
         <in>jdckw4.c</in>
+        <in>jg229.c</in>
         <in>jmpcz9.c</in>
+        <in>jpfvx8.c</in>
+        <in>jtl378.c</in>
+        <in>jtmyz9.c</in>
+        <in>kac2z7.c</in>
+        <in>kfjmbb.c</in>
+        <in>kjf3md.c</in>
         <in>klft2.c</in>
+        <in>lch3m4.c</in>
+        <in>lvkvc8.c</in>
         <in>mdsf3f.c</in>
+        <in>med43b.c</in>
         <in>mkc42.c</in>
+        <in>mmjfz9.c</in>
+        <in>msdrm8.c</in>
+        <in>mtrmt9.c</in>
+        <in>mttg33.c</in>
         <in>nasz8f.c</in>
+        <in>ncsgg7.c</in>
+        <in>ndtptb.c</in>
+        <in>ob44f.c</in>
         <in>pje279.c</in>
+        <in>pmfn9c.c</in>
+        <in>pmhkv9.c</in>
+        <in>rhhq7.c</in>
         <in>rml3md.c</in>
+        <in>rmmpfb.c</in>
+        <in>rrsqp4.c</in>
         <in>scfpt6.c</in>
         <in>snhqm9.c</in>
+        <in>srwrk5.c</in>
         <in>sskgz8.c</in>
         <in>syg84.c</in>
         <in>szz63.c</in>
+        <in>tljwvf.c</in>
+        <in>tmbv22.c</in>
+        <in>trdxd4.c</in>
+        <in>twv8f9.c</in>
+        <in>wcmgg3.c</in>
+        <in>wxqk3.c</in>
+        <in>xlwbc.c</in>
+        <in>xwq58.c</in>
+        <in>yqzn9.c</in>
         <in>yzghf.c</in>
+        <in>zj5ff.c</in>
       </df>
-      <in>jah3xc.c</in>
       <in>story.c</in>
     </df>
   </logicalFolder>

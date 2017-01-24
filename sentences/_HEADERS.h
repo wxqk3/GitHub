@@ -158,3 +158,5 @@ void tljwvfSentence1();
 void tljwvfSentence2();
 void mttg331();
 void mttg332();
+int lch3m4Sentence1();
+int lch3m4Sentence2();
