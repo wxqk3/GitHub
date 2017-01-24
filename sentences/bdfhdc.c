@@ -14,17 +14,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void bdfhdcFirstSentence();
-void bdfhdcSecondSentence();
-
-int main(int argc, char** argv) {
-
-    bdfhdcFirstSentence();
-    bdfhdcSecondSentence();
-    
-    return (EXIT_SUCCESS);
-    
-}
 
 void bdfhdcFirstSentence(){
     
