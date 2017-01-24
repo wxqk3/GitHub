@@ -18,12 +18,14 @@ int main( void )
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
+    ampvy7Sentence1()'
     dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
     mdsf3fSentence1();
 	bcspq4sent1();
 	bcspq4sent2();
+	ampvy7Sentence2();
     pje279Sentence1();
     rml3mdFirstSentence();
     nicolasSmithsSentence1();

@@ -102,3 +102,6 @@ int twv8f9Sentence1();
 int twv8f9Sentence2();
 int asbrm5Sentence1();
 int asbrm5Sentence2();
+int ampvy7Sentence1();
+int ampvy7Sentence2();
+
