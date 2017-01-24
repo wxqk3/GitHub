@@ -48,6 +48,8 @@ void kfjmbb_sentence1();
 void kfjmbb_sentence2();
 int cgj6hb_sentence1();
 int cgj6hb_sentence2();
+int crm4g3First();
+int crm4g3Second();
 int jmpcz9NewSentence1();
 int jmpcz9NewSentence2();
 int lvkvc8_sentence1();

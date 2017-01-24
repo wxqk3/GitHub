@@ -29,6 +29,7 @@ int main( void )
     nicolasSmithsSentence1();
     acmyfFirst();
     mtrmt9First();
+    crm4g3First();
     jarpqdSentence1();
     yqzn9_one();
     blkz85First();
@@ -42,6 +43,7 @@ int main( void )
 	kfjmbb_sentence2();
     ams938sentence1();
     cjm539sent1();
+	crm4g3Second();
 	colejcsent1();
     yzghf();
     jdckw4_sentence1();
