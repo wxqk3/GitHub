@@ -98,3 +98,5 @@ int xwq58First();
 int xwq58Second();
 int twv8f9Sentence1();
 int twv8f9Sentence2();
+void bdfhdcFirstSentence();
+void bdfhdcSecondSentence();
