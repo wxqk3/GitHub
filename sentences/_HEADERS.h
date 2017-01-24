@@ -134,7 +134,8 @@ int rmmpfbSentence1();
 int rmmpfbSentence2();
 int ajt3m8_sentence1();
 int ajt3m8_sentence2();
-
+int cjrz74Sentence1();
+int cjrz74Sentence2();
 int trdxd4Sentence1();
 int trdxd4Sentence2();
 void pmfn9csentence1();
