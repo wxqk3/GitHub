@@ -138,7 +138,8 @@ int main( void )
 	apsrz4First();
 	apsrz4Second();
     ajt3m8_sentence2();
-
+    xlwbcSentence1();
+    xlwbcSentence_FINAL();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();
