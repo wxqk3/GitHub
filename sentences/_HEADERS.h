@@ -141,4 +141,6 @@ int wcmgg3Sentence1();
 int wcmgg3Sentence2();
 int xlwbcSentence1();
 int xlwbcSentence_FINAL();
+int agom94Sentence1();
+int agom94Sentence2();
 
