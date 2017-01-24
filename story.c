@@ -15,7 +15,7 @@ int main( void )
 	snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
-    cdw8b9First()
+    cdw8b9First();
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
