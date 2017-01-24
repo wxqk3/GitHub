@@ -109,6 +109,8 @@ int main( void )
     agom94Sentence1();
 
 	printf("\n\n");
+    tljwvfSentence1();
+    tljwvfSentence2();
     agom94Sentence2();
     rrsqp4sentence1();
     printf("\n\n");
@@ -149,8 +151,7 @@ int main( void )
     ajt3m8_sentence2();
     //bdfhdcFirstSentence();
     //bdfhdcSecondSentence();
-        // wxqk3Sentence1();
-        // wxqk3Sentence2();
+
     xlwbcSentence1();
     xlwbcSentence_FINAL();
     // DO NOT ADD AFTER THIS COMMENT

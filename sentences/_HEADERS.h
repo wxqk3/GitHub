@@ -152,3 +152,5 @@ int agom94Sentence1();
 int agom94Sentence2();
 void bdfhdcFirstSentence();
 void bdfhdcSecondSentence();
+void tljwvfSentence1();
+void tljwvfSentence2();
