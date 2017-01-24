@@ -81,6 +81,7 @@ int main( void )
     shensSentence_FINAL();
     acmyfSecond();
     jmpcz9NewSentence2();
+    kzm454Sentence1();
     ajpt33Second();
     yzghf2();
     cjm539sent2();
@@ -122,6 +123,7 @@ int main( void )
     mattDSent1();
     dwdb79_sentence2();
     ams938sentence2();
+    kzm454Sentence2();
     kjf3mdSentence_FINAL();
     ob44fSecondSentence();
     rhhq7Sentence1();

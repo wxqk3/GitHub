@@ -18,4 +18,3 @@ int kzm454Sentence2()
   printf("Chicken and waffles are my favorite.");
   return 1;
 }
-
