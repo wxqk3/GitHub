@@ -58,6 +58,8 @@ int lvkvc8_sentence1();
 int lvkvc8_sentence2();
 void mkc42Sentence1();
 void mkc42Sentence2();
+void mvjmb7Sentence1();
+void mvjmb7Sentence2();
 int scfpt6Sentence1();
 int scfpt6Sentence2();
 void casty8Sentence1();

@@ -13,6 +13,48 @@ int main( void )
     // Don't forget to update the header file.
     // vvvvvvvvvvvvvvvv STUDENT WORK H
 	snhqm9_sentence1();
+<<<<<<< HEAD
+	shensSentence1();
+	cgj6hb_sentence1();
+	mdsf3fSentence1();
+	pje279Sentence1();
+	rml3mdFirstSentence();
+	nicolasSmithsSentence1();
+	acmyfFirst();
+	jarpqdSentence1();
+	printf("\n\n");
+	jmpcz9NewSentence1();
+	yzghf();
+	printf("\n\n");
+	szz63one();
+	hagd5dSentence1();
+	sskgz8sentence1();
+	klft2();
+	mkc42Sentence1();
+	mvjmb7Sentence1();
+	jarpqdSentence2();
+	scfpt6Sentence1();
+	printf("\n\n");
+	snhqm9_sentence2();
+	rml3mdSecondSentence();
+	cgj6hb_sentence2();
+	mvjmb7Sentence2();
+	pje279Sentence2();
+	nicolasSmithsSentence2();
+	mdsf3fSentence2();
+	casty8Sentence1();
+	shensSentence_FINAL();
+	acmyfSecond();
+	jmpcz9NewSentence2();
+	yzghf2();
+	sskgz8sentence_FINAL();
+	szz63two();
+	hagd5dSentence2();
+	klft2_1();
+	casty8Sentence2();
+	mkc42Sentence2();
+	scfpt6Sentence2();
+=======
     jtl378_sentence1();
     shensSentence1();
     //dw8b9First();
@@ -112,6 +154,7 @@ int main( void )
     ncsgg7_sentence1();
     twv8f9Sentence1();
     agom94Sentence1();
+>>>>>>> master
 
 	printf("\n\n");
     agom94Sentence2();
