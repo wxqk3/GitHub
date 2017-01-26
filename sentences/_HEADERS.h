@@ -20,6 +20,8 @@ int nicksen1();
 int nicksen2();
 int mattDSent1();
 int mattDSent2();
+int jpmx74First();
+int jpmx74Second();
 void cjm539sent1();
 void cjm539sent2();
 void colejcsent1();
