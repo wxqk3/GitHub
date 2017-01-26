@@ -1,3 +1,4 @@
+
 #################################################
 # Makefile format
 # target: dependencies
@@ -23,7 +24,9 @@ CLEAN= rm -rf *.o story
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
-TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_story.txt
+TEST= (./story > the_story.txt) ; cat the_story.txt
+# -----------------------------------------------DERS.h
+#TEST= (./story > the_story.txt); cat the_story.txt
 
 # -----------------------------------------------
 # The standard default target is 'all'
@@ -33,7 +36,7 @@ TEST= (./story | fold -s | sed 's/[[:space:]]*$$//' > the_story.txt); cat the_st
 
 all: story
 
-test: story
+test:
 	@$(TEST)
 
 # -----------------------------------------------
@@ -53,7 +56,14 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jarpqd.o
+#<<<<<<< HEAD
+#story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o tmbv22.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o jah3xc.o msdrm8.o rhhq7.o kfjmbb.o med43b.o pmhkv9.o mtrmt9.o bcspq4.o yqzn9.o blkz85.o ndtptb.o yqzn9.o zj5ff.o bcspq4.o ndtptb.o med43b.o rhhq7.o basqr4.o dwdb79.o mmjfz9.o annhx3.o cjan8c.o ams938.o kjf3md.o rrsqp4.o jpfvx8.o colejc.o aupkbd.o xwq58.o twv8f9.o asbrm5.o adwcn6.o apsrz4.o rmmpfb.o srwrk5.o ajt3m8.o crm4g3.o trdxd4.o pmfn9c.o wcmgg3.o xlwbc.o bmevy3.o agom94.o ajpt33.o kac2z7.o ampvy7.o bdfhdc.o ncsgg7.o aavr56.o sbwzq8.o
+
+story: story.o bpbkt7.o snhqm9.o pje279.o syg84.o acmyf.o nasz8f.o mdsf3f.o rml3md.o yzghf.o sskgz8.o szz63.o hagd5d.o klft2.o tmbv22.o cgj6hb.o jmpcz9.o mkc42.o casty8.o scfpt6.o jtmyz9.o jarpqd.o jdckw4.o jg229.o ob44f.o cjm539.o jtl378.o cdw8b9.o jah3xc.o msdrm8.o rhhq7.o kfjmbb.o med43b.o pmhkv9.o mtrmt9.o bcspq4.o yqzn9.o blkz85.o ndtptb.o yqzn9.o zj5ff.o bcspq4.o ndtptb.o med43b.o rhhq7.o basqr4.o dwdb79.o mmjfz9.o annhx3.o cjan8c.o ams938.o kjf3md.o rrsqp4.o jpfvx8.o colejc.o aupkbd.o xwq58.o twv8f9.o asbrm5.o adwcn6.o apsrz4.o rmmpfb.o srwrk5.o ajt3m8.o crm4g3.o trdxd4.o pmfn9c.o wcmgg3.o xlwbc.o bmevy3.o agom94.o ajpt33.o kac2z7.o ncsgg7.o bdfhdc.o ampvy7.o lch3m4.o kzm454.o sbwzq8.o
+
+#wxqk35.o - no wxqk35 in sentences#
+#japv3b.o - no japv3b in sentences#
+
 	$(CC) -o story $^
 
 # -----------------------------------------------
@@ -62,6 +72,7 @@ story.o: story.c
 	$(CC) -c -o $@ $^
 
 # -----------------------------------------------
+
 
 #pawprint.o -  where is your .c derived object file - where is your file
 %.o : sentences/%.c
