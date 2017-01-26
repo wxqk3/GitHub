@@ -20,6 +20,7 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
+    jpmx74First();
 	jarpqdSentence1();
 	printf("\n\n");
 	jmpcz9NewSentence1();
@@ -177,6 +178,7 @@ int main( void )
     rrsqp4sentence2();
     aupkbdsentence2();
     xwq58Second();
+    jpmx74Second();
     twv8f9Sentence2();
     lch3m4Sentence2();
 	asbrm5Sentence1();
