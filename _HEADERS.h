@@ -162,3 +162,5 @@ int lch3m4Sentence1();
 int lch3m4Sentence2();
 int kzm454Sentence1();
 int kzm454Sentence2();
+int sbwzq8Sentence1();
+int sbwzq8Sentence2();
