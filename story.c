@@ -67,6 +67,7 @@ int main( void )
     klft2();
     mkc42Sentence1();
     jdckw4_sentence2();
+    sbwzq8Sentence1();
     jarpqdSentence2();
     scfpt6Sentence1();
     jg229Sentence1();
@@ -90,6 +91,7 @@ int main( void )
     szz63two();
     hagd5dSentence2();
     ob44fFirstSentence();
+    sbwzq8Sentence2();
     klft2_1();
     jg229Sentence2();
     casty8Sentence2();
